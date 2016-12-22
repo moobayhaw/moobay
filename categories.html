@@ -1,0 +1,22 @@
+---
+layout: default
+title: 分类
+permalink: /blog/categories/
+nav_order: 2
+---
+
+<div class="categories">
+<dl>
+{% for category in site.categories %}
+<hr/>
+<dt><h1 name="{{ category | first | upcase }}">{{ category | first | upcase}}</h1></dt>
+	{% for post_list in category %}
+		{% for p in post_list %}
+			{% if p.title and p.url %}
+			<dd><h3><a href="{{ p.url }}">{{ p.date | date:"%d%b%Y-%r"|upcase }} {{ p.title }}</a></h3></dd>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</dl>
+{% endfor %}
+</div>
