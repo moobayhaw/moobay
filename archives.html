@@ -1,17 +1,20 @@
 ---
 layout: default
-title: archives
+title: 归档
 permalink: /blog/archives/
+nav_order: 2
 ---
 
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    {% endfor %}
-    </ul>
-  </li>
+<li><a name="{{ category | first }}">{{ category | first }}</a>
+	<ul>
+	{% for post_list in category %}
+		{% for p in post_list %}
+			{% if p.title != "" and p.url != "" %}
+			<li><a href="{{ p.url }}">{{ p.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+	</ul>
+</li>
 {% endfor %}

@@ -4,12 +4,30 @@
 @import "{{ site.theme }}";
 
 h1.project-name {
-	font-size:10.0em !important;
+	font-size:6.0em !important;
 }
 
 body {
 	font-family: Courier, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+	section>nav {
+		font-size:2.0em;
+		float:right;
+//		margin-top:-100px;
+		position: relative;
+		vertical-align: baseline;
+		display: block;
+		ul li {
+			list-style-type: none;
+			float:left;
+			margin-left:20px;
+			
+			a {
+				color:white !important;
+			}
+		}
+	}
 }
+
 
 article {
 	margin-bottom:50px;

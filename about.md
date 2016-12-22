@@ -1,7 +1,8 @@
 ---
 layout: default
-title: About
+title: 作者
 permalink: /blog/about/
+nav_order: 3
 ---
 
 
