@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1.project-name {
+	font-size:10.0em !important;
+}
+
+body {
+	font-family: Courier, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
+code {
+	font-family: Courier, Consolas, "Liberation Mono", Menlo, Courier, monospace !important;
+	font-size:1.0em !important;
+}
+
+pre {
+	font: 1rem Courier, Consolas, "Liberation Mono", Menlo, monospace !important;
+	font-size:1.0em !important;
+	>code {
+		font-size:1.0em !important;
+	}
+}
