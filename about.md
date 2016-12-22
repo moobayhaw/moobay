@@ -5,7 +5,7 @@ permalink: /blog/about/
 nav_order: 20
 ---
 
-<h1 style="font-size:4.0em;">MOOBAY HAW</h1>
+<h1 style="font-size:3.0em;">MOOBAY HAW</h1>
 
 ## moobay@foxmail.com
 
