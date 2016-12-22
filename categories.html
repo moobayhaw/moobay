@@ -9,11 +9,11 @@ nav_order: 2
 <dl>
 {% for category in site.categories %}
 <hr/>
-<dt><h1 name="{{ category | first | upcase }}">{{ category | first | upcase}}</h1></dt>
+<dt><h1 id="{{ category | first }}">{{ category | first | upcase}}</h1></dt>
 	{% for post_list in category %}
 		{% for p in post_list %}
 			{% if p.title and p.url %}
-			<dd><h3>{{ p.date | date:"%d %b %Y %r"|upcase }} <a href="{{ p.url }}">{{ p.title }}</a></h3></dd>
+			<dd><div class="post-record">{{ p.date | date:"%F %a"|upcase }} <a href="{{ p.url }}">{{ p.title }}</a></div></dd>
 			{% endif %}
 		{% endfor %}
 	{% endfor %}

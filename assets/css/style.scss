@@ -23,7 +23,7 @@ body {
 			margin-left:20px;
 			
 			a {
-				color:white !important;
+				color:#a3ff65 !important;
 			}
 		}
 	}
@@ -74,12 +74,12 @@ div.pagination {
 	}
 }
 
-div.categories {
-	dt {
-		margin-top:0px;
-	}
-	
+div.categories,div.archives {
 	hr {
 		height:1px;
+	}
+	
+	.post-record {
+		font-size:1.3em;
 	}
 }

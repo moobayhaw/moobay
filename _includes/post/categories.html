@@ -1,10 +1,14 @@
 {% capture category %}{% if post %}{{ post.categories | category_links | size }}{% else %}{{ page.categories | category_links | size }}{% endif %}{% endcapture %}
 {% unless category == '0' %}
 <span class="categories">
-  {% if post %}
-    {{ post.categories | join:"·" }}
-  {% else %}
-    {{ page.categories | join:"·" }}
-  {% endif %}
+	{% if post %}
+		{% for n in post.categories %}
+			· <a href="/blog/categories/#{{ n }}">{{ n }}</a>
+		{% endfor %}
+	{% else %}
+		{% for n in page.categories %}
+			· <a href="/blog/categories/#{{ n }}">{{ n }}</a>
+		{% endfor %}
+	{% endif %}
 </span>
 {% endunless %}
