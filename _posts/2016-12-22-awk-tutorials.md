@@ -132,10 +132,12 @@ awk '/Init/ {print $0}'
 	65568               |TheNext.Moba.Logic.FOWSystem:Init (TheNext.Moba.Logic.EnmTeamID,TheNext.Moba.Logic.IFOWSystem)|Byte[,] 
 
 通过`awk '/Init/'`这个简单的例子可以知道，在双斜杠`'//'`中间可以添加正则表达式，正则表达式的作用过滤出匹配的行 然后再执行花括号里面`{}`逻辑，该示例中正则对整行进行匹配操作，也可以对某一列执行匹配
+
 ```bash
 awk -F'|' '$2 ~ /Init/ {print $0}'
 ```
 脚本用`|`分隔符分列，把正则表达式应用到第二列进行匹配
+
 ```bash
 awk -F'|' '$2 ~ /Init/ {print $1,$3}'
 ```
@@ -180,6 +182,7 @@ C0:A8:00:69
 </pre>
 
 `for...in`和`split`
+
 ```bash
 echo 192.168.0.105 | awk -F'.' '{split($0,a);for(i in a) printf "%d:%02X ",i,a[i]}'
 ```
