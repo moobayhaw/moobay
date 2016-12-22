@@ -70,5 +70,5 @@ excerpt_separator: <!--more-->
 titlecase: false       # Converts page and post titles to titlecase
 
 # Disqus Comments
-disqus_short_name: larryhou
-disqus_show_comment_count: true
+# disqus_short_name: larryhou
+# disqus_show_comment_count: true
