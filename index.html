@@ -12,11 +12,11 @@ layout: default
   {% endfor %}
   <div class="pagination">
     {% if paginator.previous_page %}
-    <a class="prev" href="{{paginator.previous_page_path}}">PREV #{{ paginator.page | minus:1 }}</a>
+    <a class="prev" href="{{paginator.previous_page_path}}">第{{ paginator.page | minus:1 }}页</a>
     {% endif %}
 	<span> {{ paginator.page }} / {{ paginator.total_pages }} </span>
     {% if paginator.next_page %}
-      <a class="next" href="{{paginator.next_page_path}}">NEXT #{{ paginator.page | plus:1 }}</a>
+      <a class="next" href="{{paginator.next_page_path}}">第{{ paginator.page | plus:1 }}页</a>
     {% endif %}
   </div>
 </div>
