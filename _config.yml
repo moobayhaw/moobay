@@ -22,6 +22,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  moobay
 
+plugins_dir: plugins
+
+permalink: /blog/:year/:month/:day/:title/
+category_dir: blog/categories
+
 # Build settings
 markdown: kramdown
 # kramdown:
@@ -53,6 +58,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - plugins
   
 paginate: 5          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
@@ -61,3 +67,7 @@ excerpt_link: "正文&raquo;"  # "Continue reading" link text at the bottom of e
 excerpt_separator: <!--more-->
 
 titlecase: false       # Converts page and post titles to titlecase
+
+# Disqus Comments
+disqus_short_name: larryhou
+disqus_show_comment_count: true

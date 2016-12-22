@@ -1,5 +1,5 @@
 ---
-<!-- layout: post -->
+layout: post
 title: "awk使用教程"
 date: 2016-12-05 19:13:55 +0800
 comments: true

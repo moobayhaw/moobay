@@ -11,6 +11,10 @@ body {
 	font-family: Courier, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
+article {
+	margin-bottom:50px;
+}
+
 code {
 	font-family: Courier, Consolas, "Liberation Mono", Menlo, Courier, monospace !important;
 	font-size:1.0em !important;
@@ -24,9 +28,16 @@ pre {
 	}
 }
 
+.next-post-link {
+	float:left;
+}
+
+.prev-post-link {
+	float:right;
+}
+
 div.pagination {
 	text-align:center;
-	margin-top:50px;
 	.next {
 		float:right;
 	}

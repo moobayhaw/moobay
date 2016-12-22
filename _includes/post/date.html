@@ -1,5 +1,6 @@
-{% if page.date %}{% capture time %}{{ page.date_time_html }}{% endcapture %}{% endif %}
-{% if post.date %}{% capture time %}{{ post.date_time_html }}{% endcapture %}{% endif %}
+{% assign format = "%a, %d %b %Y %r" %}
+{% if page.date %}{% capture time %}{{ page.date | date:format | upcase }}{% endcapture %}{% endif %}
+{% if post.date %}{% capture time %}{{ post.date | date:format | upcase }}{% endcapture %}{% endif %}
 
-{% if page.updated %}{% capture updated %}{{ page.date_time_updated_html }}{% endcapture %}{% endif %}
-{% if post.updated %}{% capture updated %}{{ post.date_time_updated_html }}{% endcapture %}{% endif %}
+{% if page.updated %}{% capture updated %}{{ page.updated }}{% endcapture %}{% endif %}
+{% if post.updated %}{% capture updated %}{{ post.updated }}{% endcapture %}{% endif %}
