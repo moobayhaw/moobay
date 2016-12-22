@@ -2,11 +2,12 @@
 <html lang="en-us">
   {% include head.html %}
   <body>
-    <section class="page-header">
+    <header class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-    <nav>{% include navigation.html %}</nav>
-	</section>
+    
+	</header>
+	<nav>{% include navigation.html %}</nav>
 	
     <section class="main-content">
       {{ content }}

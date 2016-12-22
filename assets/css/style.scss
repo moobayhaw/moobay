@@ -9,13 +9,14 @@ h1.project-name {
 
 body {
 	font-family: Courier, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-	section>nav {
+	>nav {
 		font-size:2.0em;
 		float:right;
-//		margin-top:-100px;
 		position: relative;
 		vertical-align: baseline;
 		display: block;
+		margin-top:-85px;
+		margin-right:100px;
 		ul li {
 			list-style-type: none;
 			float:left;
