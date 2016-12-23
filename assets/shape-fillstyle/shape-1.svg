@@ -1,0 +1,8 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024" height="768">
+    <g transform="scale(2.49,2.49) translate(5.35,4.01)">
+        <path fill="#FF0000" fill-opacity="1.00" d="M200.00,100.00 L400.00,100.00 L400.00,300.00 L100.00,300.00 L100.00,200.00 L200.00,200.00 L200.00,100.00 Z"/>
+        <path fill="#0000FF" fill-opacity="1.00" d="M200.00,100.00 L100.00,100.00 L100.00,200.00 L0.00,200.00 L0.00,0.00 L200.00,0.00 L200.00,100.00 Z"/>
+        <path fill="#00FF00" fill-opacity="1.00" d="M200.00,100.00 L200.00,200.00 L100.00,200.00 L100.00,100.00 L200.00,100.00 Z"/>
+        <path stroke="#FFFFFF" stroke-width="1.00" stroke-opacity="1.00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="3.00" fill="transparent" d="M200.00,100.00 L400.00,100.00 L400.00,300.00 L100.00,300.00 L100.00,200.00 L0.00,200.00 L0.00,0.00 L200.00,0.00 L200.00,100.00 L200.00,200.00 L100.00,200.00 L100.00,100.00 L200.00,100.00"/>
+    </g>
+</svg>

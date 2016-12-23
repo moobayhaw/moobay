@@ -1,0 +1,37 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1050" height="500">
+	<g transform="scale(2) translate(10,75)">
+		<path stroke="red" stroke-width="1.20" fill="transparent" stroke-dasharray="5,5"
+			d="M0,100 L200,150 L300,-50 L500,0"/>
+		
+		<path stroke="#0099FF" stroke-width="1.20" fill="transparent" 
+			d="M240,50 L260,50 M250,40 L250,60"/>
+		<path stroke="#0099FF" stroke-width="2.00" fill="transparent" 
+			d="M0,100 Q200,150 250,50"/>
+		<path stroke="#00FF00" stroke-width="2.00" fill="transparent" 
+			d="M250,50 Q300,-50 500,0"/>
+		<circle cx="250" cy="50" style="fill:#0099FF"/>
+		<circle cx="0" cy="100"/>
+		<circle cx="200" cy="150"/>
+		<circle cx="300" cy="-50"/>
+		<circle cx="500" cy="0"/>
+			
+		<text x="0" y="90">P₀</text>
+		<text x="200" y="170">P₁</text>
+		<text x="300" y="-60">P₂</text>
+		<text x="500" y="-10">P₃</text>
+		<text x="240" y="45" style="fill:#0099FF">M</text>
+	</g>
+	<style><![CDATA[
+		circle {
+			fill:red;
+			r:3px;
+		}
+		text {
+			font-family: Lucida Grande;
+			font-size: 16px;
+			text-anchor: middle;
+			fill: red;
+		}
+		]]>
+	</style>
+</svg>

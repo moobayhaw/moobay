@@ -1,0 +1,334 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024" height="768">
+    <defs>
+        <linearGradient x1="139.80" y1="70.88" x2="130.20" y2="35.13" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G1">
+            <stop offset="0.00" stop-color="#1D889E" stop-opacity="1.00"/>
+            <stop offset="0.93" stop-color="#02425E" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="130.45" y1="73.52" x2="125.55" y2="40.18" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G2">
+            <stop offset="0.00" stop-color="#0F678C" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#051734" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="140.50" y1="77.10" x2="132.20" y2="46.20" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G3">
+            <stop offset="0.00" stop-color="#0BF4C0" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#004566" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="130.45" y1="73.52" x2="125.55" y2="40.18" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G4">
+            <stop offset="0.00" stop-color="#1DC0C0" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#0A6F87" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="59.38" y1="67.74" x2="72.93" y2="31.56" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G5">
+            <stop offset="0.00" stop-color="#0E8DAD" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#001B46" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="67.60" y1="69.55" x2="77.50" y2="35.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G6">
+            <stop offset="0.00" stop-color="#0F678C" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#051734" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="67.60" y1="69.55" x2="77.50" y2="35.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G7">
+            <stop offset="0.00" stop-color="#0DBEEA" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#063452" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="59.38" y1="67.74" x2="72.93" y2="31.56" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G8">
+            <stop offset="0.00" stop-color="#0DE1F2" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#01335B" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="129.97" y1="137.41" x2="120.63" y2="121.89" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G9">
+            <stop offset="0.00" stop-color="#A7E0DF" stop-opacity="1.00"/>
+            <stop offset="0.52" stop-color="#7AC0D1" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#61869A" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="14.41" y1="124.54" x2="20.79" y2="110.06" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G10">
+            <stop offset="0.00" stop-color="#A7E0DF" stop-opacity="1.00"/>
+            <stop offset="0.51" stop-color="#6CADC6" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#497283" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="124.34" y1="123.70" x2="133.46" y2="158.70" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G11">
+            <stop offset="0.00" stop-color="#DFF4F2" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#6CADC6" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="14.41" y1="124.54" x2="20.79" y2="110.06" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G12">
+            <stop offset="0.00" stop-color="#DFF4F2" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#6CADC6" stop-opacity="1.00"/>
+        </linearGradient>
+        <radialGradient cx="32.20" cy="122.40" fx="32.20" fy="122.40" r="33.90" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G13">
+            <stop offset="0.00" stop-color="#59C8C8" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#148AA7" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="29.50" cy="124.35" fx="29.50" fy="124.35" r="35.80" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G14">
+            <stop offset="0.00" stop-color="#158FAE" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#0C4B6E" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="34.90" cy="122.40" fx="34.90" fy="122.40" r="31.60" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G15">
+            <stop offset="0.00" stop-color="#158FAE" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#0C4B6E" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="32.20" cy="122.40" fx="32.20" fy="122.40" r="33.90" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G16">
+            <stop offset="0.00" stop-color="#9CEBF3" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#1BA8CB" stop-opacity="1.00"/>
+        </radialGradient>
+        <linearGradient x1="-6.40" y1="120.20" x2="157.60" y2="120.20" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G17">
+            <stop offset="0.00" stop-color="#1086A3" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#B8FAF9" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="114.54" y1="96.39" x2="-40.04" y2="137.81" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G18">
+            <stop offset="0.00" stop-color="#14768D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#64F9EA" stop-opacity="1.00"/>
+        </linearGradient>
+        <radialGradient cx="122.60" cy="73.40" fx="122.60" fy="73.40" r="36.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G19">
+            <stop offset="0.00" stop-color="#47CD8D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#005C7A" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="160.20" cy="41.85" fx="160.20" fy="41.85" r="37.55" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G20">
+            <stop offset="0.00" stop-color="#47CD8D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#005C7A" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="4.05" cy="41.10" fx="4.05" fy="41.10" r="55.70" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G21">
+            <stop offset="0.00" stop-color="#47CD8D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#005C7A" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="122.60" cy="73.40" fx="122.60" fy="73.40" r="36.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G22">
+            <stop offset="0.00" stop-color="#99F09E" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#005C7A" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="160.20" cy="41.85" fx="160.20" fy="41.85" r="37.55" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G23">
+            <stop offset="0.00" stop-color="#99F09E" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#2DA8A7" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="4.05" cy="41.10" fx="4.05" fy="41.10" r="55.70" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G24">
+            <stop offset="0.00" stop-color="#99F09E" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#2DA8A7" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="86.75" cy="22.20" fx="86.75" fy="22.20" r="61.85" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G25">
+            <stop offset="0.00" stop-color="#D4BF32" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#9C4938" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="86.75" cy="22.20" fx="86.75" fy="22.20" r="61.85" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G26">
+            <stop offset="0.00" stop-color="#F8D767" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#EAA633" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="87.10" cy="19.25" fx="87.10" fy="19.25" r="74.83" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G27">
+            <stop offset="0.00" stop-color="#B76A1E" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#5A2954" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="87.10" cy="19.25" fx="87.10" fy="19.25" r="74.83" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G28">
+            <stop offset="0.00" stop-color="#A9400E" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#462043" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="67.45" cy="74.25" fx="67.45" fy="74.25" r="62.15" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G29">
+            <stop offset="0.00" stop-color="#B76A1E" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#5A2954" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="44.60" cy="37.25" fx="44.60" fy="37.25" r="34.90" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G30">
+            <stop offset="0.00" stop-color="#B37935" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#5A2954" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="138.20" cy="78.05" fx="138.20" fy="78.05" r="26.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G31">
+            <stop offset="0.00" stop-color="#EDB13F" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#A35837" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="134.05" cy="49.25" fx="134.05" fy="49.25" r="26.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G32">
+            <stop offset="0.20" stop-color="#F8D767" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#A45A37" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="134.05" cy="49.25" fx="134.05" fy="49.25" r="26.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G33">
+            <stop offset="0.20" stop-color="#FFE897" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#EDB13E" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="138.20" cy="78.05" fx="138.20" fy="78.05" r="26.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G34">
+            <stop offset="0.00" stop-color="#FED354" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#EC9742" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="44.60" cy="37.25" fx="44.60" fy="37.25" r="34.90" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G35">
+            <stop offset="0.00" stop-color="#F5B450" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#5A2954" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="67.45" cy="74.25" fx="67.45" fy="74.25" r="62.15" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G36">
+            <stop offset="0.00" stop-color="#F5B450" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#5A2954" stop-opacity="1.00"/>
+        </radialGradient>
+        <linearGradient x1="145.46" y1="76.10" x2="84.34" y2="119.00" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G37">
+            <stop offset="0.17" stop-color="#1E92D0" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#613980" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#B7BE76" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G38">
+            <stop offset="0.00" stop-color="#356AB9" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#613980" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#B7BE76" stop-opacity="1.00"/>
+        </linearGradient>
+        <radialGradient cx="75.95" cy="96.85" fx="75.95" fy="96.85" r="31.35" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G39">
+            <stop offset="0.00" stop-color="#B76A1E" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#5A2954" stop-opacity="1.00"/>
+        </radialGradient>
+        <radialGradient cx="75.95" cy="96.85" fx="75.95" fy="96.85" r="31.35" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G40">
+            <stop offset="0.00" stop-color="#861313" stop-opacity="1.00"/>
+            <stop offset="0.87" stop-color="#281327" stop-opacity="1.00"/>
+        </radialGradient>
+        <linearGradient x1="96.49" y1="124.06" x2="35.01" y2="105.54" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G41">
+            <stop offset="0.00" stop-color="#1E92D0" stop-opacity="1.00"/>
+            <stop offset="0.25" stop-color="#092644" stop-opacity="1.00"/>
+            <stop offset="0.71" stop-color="#0C136E" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#227E93" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="135.14" y1="105.49" x2="84.26" y2="134.91" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G42">
+            <stop offset="0.00" stop-color="#1EBFB7" stop-opacity="1.00"/>
+            <stop offset="0.75" stop-color="#0C136E" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G43">
+            <stop offset="0.00" stop-color="#2E5B9E" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#442C5C" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#A4AC53" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G44">
+            <stop offset="0.00" stop-color="#356AB9" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#65418B" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#B7BE76" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G45">
+            <stop offset="0.00" stop-color="#2E5B9E" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#4D3267" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#A4AC53" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="101.38" y1="104.40" x2="35.13" y2="104.40" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G46">
+            <stop offset="0.00" stop-color="#B0867D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#E0CEAD" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G47">
+            <stop offset="0.00" stop-color="#356AB9" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#613980" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#8D8150" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="100.56" y1="106.36" x2="137.34" y2="82.64" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G48">
+            <stop offset="0.00" stop-color="#DDBCA2" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#F7F0D0" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="30.80" y1="160.15" x2="63.20" y2="127.75" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G49">
+            <stop offset="0.00" stop-color="#0B4B5B" stop-opacity="0.15"/>
+            <stop offset="0.99" stop-color="#0A5676" stop-opacity="0.30"/>
+        </linearGradient>
+        <linearGradient x1="101.38" y1="104.40" x2="35.13" y2="104.40" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G50">
+            <stop offset="0.00" stop-color="#AB736D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#CCAA77" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="100.56" y1="106.36" x2="137.34" y2="82.64" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G51">
+            <stop offset="0.00" stop-color="#D1A283" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#ECDB9B" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="101.38" y1="104.40" x2="35.13" y2="104.40" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G52">
+            <stop offset="0.00" stop-color="#82504A" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#C09658" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="100.56" y1="106.36" x2="137.34" y2="82.64" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G53">
+            <stop offset="0.00" stop-color="#BB784D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#E1C96A" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="96.49" y1="124.06" x2="35.01" y2="105.54" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G54">
+            <stop offset="0.00" stop-color="#156F95" stop-opacity="1.00"/>
+            <stop offset="0.25" stop-color="#092644" stop-opacity="1.00"/>
+            <stop offset="0.71" stop-color="#09104D" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#1B666D" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="145.46" y1="76.10" x2="84.34" y2="119.00" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G55">
+            <stop offset="0.16" stop-color="#44DAFF" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#613980" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#B7BE76" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="145.46" y1="76.10" x2="84.34" y2="119.00" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G56">
+            <stop offset="0.19" stop-color="#185C89" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#442C5C" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#7D8440" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G57">
+            <stop offset="0.00" stop-color="#24487D" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#332046" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#665E3C" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="105.08" y1="85.76" x2="35.92" y2="93.04" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G58">
+            <stop offset="0.00" stop-color="#22152F" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#4D372B" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="145.46" y1="76.10" x2="84.34" y2="119.00" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G59">
+            <stop offset="0.19" stop-color="#103A56" stop-opacity="1.00"/>
+            <stop offset="0.60" stop-color="#1D1328" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#7D8440" stop-opacity="1.00"/>
+        </linearGradient>
+        <linearGradient x1="-9.50" y1="120.70" x2="154.50" y2="120.70" gradientUnits="userSpaceOnUse" spreadMethod="pad" id="G60">
+            <stop offset="0.00" stop-color="#1086A3" stop-opacity="1.00"/>
+            <stop offset="1.00" stop-color="#E6FFFF" stop-opacity="1.00"/>
+        </linearGradient>
+    </defs>
+    <g transform="scale(4.59,4.59) translate(35.06,2.58)">
+        <path fill="#05476E" fill-opacity="1.00" d="M44.60,37.25 L43.10,38.60 Q34.90,46.05 23.85,47.55 L20.15,47.65 L22.30,47.20 Q34.55,44.70 44.60,37.25 Z"/>
+        <path fill="#002154" fill-opacity="1.00" d="M34.95,118.25 L34.90,122.40 L30.45,124.00 L29.50,124.35 L33.55,119.25 L34.50,118.05 L34.95,118.25 M29.50,124.35 L29.50,129.50 L26.40,128.25 L29.50,124.35 Z"/>
+        <path fill="url(#G1)" d="M129.10,45.50 Q132.10,49.45 135.40,52.30 L136.45,54.05 Q140.75,60.75 147.15,65.50 L145.35,67.60 Q143.30,66.10 141.35,64.05 Q135.10,57.60 129.10,45.50 M144.15,57.65 L148.65,58.95 L151.75,58.85 L149.70,62.10 L144.15,57.65 M123.05,36.80 L124.95,41.95 Q129.65,57.65 140.95,69.00 L142.50,70.40 L139.60,72.80 L134.55,66.05 Q127.10,55.25 122.20,42.40 L120.50,37.80 L123.05,36.80 M116.45,41.80 L116.75,39.40 L116.95,38.05 L118.05,38.05 L119.55,42.80 Q124.55,59.25 133.70,73.80 L134.95,75.80 L132.00,77.20 Q123.45,62.10 117.75,45.80 L117.10,43.90 L116.45,41.80 M120.50,80.95 L120.00,80.60 Q116.15,76.25 116.40,69.80 L120.90,80.70 L120.60,80.95 L120.50,80.95 M115.90,56.10 L116.00,47.50 L116.10,47.80 Q118.70,59.15 123.05,70.05 L122.60,73.40 L115.90,56.10 M124.80,78.05 L125.55,77.30 L125.30,75.10 L127.15,78.95 L125.65,79.35 L124.80,78.05 Z"/>
+        <path fill="url(#G2)" d="M123.45,36.60 L128.50,44.75 Q133.40,57.05 142.50,66.50 L144.55,68.45 L143.40,69.55 Q131.55,59.40 126.05,44.70 L124.95,41.95 L123.05,36.80 L123.45,36.60 M136.65,53.30 Q139.30,55.35 142.20,56.75 L149.10,62.90 L147.85,64.65 L143.50,61.15 Q139.25,57.35 136.65,53.30 M116.45,41.80 L117.10,43.90 Q121.75,60.25 129.40,75.35 L130.60,77.75 L128.70,78.45 L124.55,70.40 L123.90,66.05 L123.25,66.05 L123.20,67.45 L123.00,66.95 Q118.95,57.60 116.05,47.00 L116.45,41.80 M119.55,42.80 L118.05,38.05 L120.50,37.80 L122.20,42.40 Q126.45,55.35 133.35,66.25 Q135.75,70.05 138.50,73.60 L136.20,75.05 Q127.05,62.15 121.20,47.25 L119.55,42.80 M116.20,65.60 L115.95,58.45 L121.30,73.75 L121.75,78.90 Q118.50,72.75 116.65,67.00 L116.20,65.60 M123.75,79.70 L123.80,79.25 L124.05,79.70 L123.75,79.70 Z"/>
+        <path fill="url(#G3)" d="M135.40,52.30 L136.65,53.30 Q139.25,57.35 143.50,61.15 L147.85,64.65 L147.15,65.50 Q140.75,60.75 136.45,54.05 L135.40,52.30 M124.95,41.95 L126.05,44.70 Q131.55,59.40 143.40,69.55 L142.50,70.40 L140.95,69.00 Q129.65,57.65 124.95,41.95 M134.95,75.80 L133.70,73.80 Q124.55,59.25 119.55,42.80 L121.20,47.25 Q127.05,62.15 136.20,75.05 L134.95,75.80 M116.40,69.80 L116.20,65.60 L116.65,67.00 Q118.50,72.75 121.75,78.90 L120.90,80.70 L116.40,69.80 M116.00,47.50 L116.05,47.00 Q118.95,57.60 123.00,66.95 L123.20,67.45 L123.05,70.05 Q118.70,59.15 116.10,47.80 L116.00,47.50 M125.30,75.10 L124.55,70.40 L128.70,78.45 L127.15,78.95 L125.30,75.10 Z"/>
+        <path fill="url(#G4)" d="M128.50,44.75 L129.10,45.50 Q135.10,57.60 141.35,64.05 Q143.30,66.10 145.35,67.60 L144.55,68.45 L142.50,66.50 Q133.40,57.05 128.50,44.75 M142.20,56.75 L144.15,57.65 L149.70,62.10 L149.10,62.90 L142.20,56.75 M147.90,55.40 Q143.50,54.30 139.75,51.60 Q147.05,54.25 154.75,54.25 L154.10,54.75 L152.40,55.75 L147.90,55.40 M117.10,43.90 L117.75,45.80 Q123.45,62.10 132.00,77.20 L130.60,77.75 L129.40,75.35 Q121.75,60.25 117.10,43.90 M115.95,58.45 L115.90,56.10 L122.60,73.40 Q122.20,74.05 121.80,73.70 Q121.35,73.30 121.30,73.75 L115.95,58.45 M123.80,79.25 L124.80,78.05 L125.65,79.35 L124.05,79.70 L123.80,79.25 M139.60,72.80 L138.50,73.60 Q135.75,70.05 133.35,66.25 Q126.45,55.35 122.20,42.40 Q127.10,55.25 134.55,66.05 L139.60,72.80 Z"/>
+        <path fill="url(#G5)" d="M94.80,34.45 L94.05,37.90 Q89.95,57.10 91.25,76.75 L85.50,75.75 Q85.50,69.90 85.95,64.05 Q86.95,49.60 90.55,34.75 L94.80,34.45 M84.15,34.20 L84.05,34.45 Q77.75,53.65 77.05,73.90 L71.70,72.55 L72.05,70.10 Q74.90,51.55 80.10,33.20 L84.15,34.20 M106.85,35.40 L106.75,35.80 Q103.35,57.45 107.45,78.90 L101.95,78.30 L101.70,77.35 Q97.85,55.70 101.90,34.30 L106.85,35.40 M55.90,21.90 L56.25,22.10 L56.05,22.60 Q47.95,42.95 30.15,55.55 L25.25,52.55 Q33.00,49.50 38.95,43.75 L39.10,43.65 L42.05,41.45 Q51.75,33.50 55.90,21.90 M61.60,24.00 L64.60,24.85 L64.45,25.30 Q58.95,46.60 44.55,62.90 L39.85,60.70 L41.50,58.95 Q54.85,43.35 61.60,24.00 M70.95,28.20 L74.45,30.55 L74.25,31.30 Q68.25,50.55 60.65,69.25 L55.50,67.40 L59.45,59.15 Q66.50,43.55 70.95,28.20 Z"/>
+        <path fill="url(#G6)" d="M92.95,77.05 L92.80,74.75 Q91.70,54.25 96.10,34.25 L96.15,34.20 L100.80,34.00 Q96.85,53.50 99.60,73.30 L100.35,78.10 L92.95,77.05 M85.65,34.45 L89.15,34.75 Q85.35,49.40 84.20,63.75 Q83.70,69.60 83.70,75.40 L78.90,74.35 L78.90,73.30 Q79.75,53.45 85.60,34.55 L85.65,34.45 M108.80,79.05 L108.25,76.05 Q104.60,56.00 107.75,35.75 L114.10,37.65 L113.75,40.25 Q110.90,60.15 115.25,79.40 L115.20,79.55 L108.80,79.05 M21.95,50.40 L20.60,49.45 L21.25,49.40 Q26.95,49.40 32.25,47.30 Q28.20,49.95 24.15,51.55 L23.85,51.65 L21.95,50.40 M57.65,22.75 L60.05,23.60 L59.95,23.90 Q52.75,44.05 38.15,59.90 L31.70,56.40 L33.70,54.80 Q50.10,42.05 57.65,22.75 M66.10,25.45 L69.50,27.25 L69.30,28.05 Q63.35,48.15 53.65,66.70 L46.40,63.75 L49.45,60.05 Q61.20,44.45 66.10,25.45 M75.95,31.40 L78.65,32.65 L78.50,33.10 Q72.75,52.40 69.75,72.05 L62.55,69.85 L66.00,60.70 Q73.10,41.40 75.95,31.40 Z"/>
+        <path fill="url(#G7)" d="M83.70,75.40 Q83.70,69.60 84.20,63.75 Q85.35,49.40 89.15,34.75 L90.55,34.75 Q86.95,49.60 85.95,64.05 Q85.50,69.90 85.50,75.75 L83.70,75.40 M80.10,33.20 Q74.90,51.55 72.05,70.10 L71.70,72.55 L69.75,72.05 Q72.75,52.40 78.50,33.10 L78.65,32.65 L80.10,33.20 M101.90,34.30 Q97.85,55.70 101.70,77.35 L101.95,78.30 L100.35,78.10 L99.60,73.30 Q96.85,53.50 100.80,34.00 L101.90,34.30 M60.05,23.60 L61.60,24.00 Q54.85,43.35 41.50,58.95 L39.85,60.70 L38.15,59.90 Q52.75,44.05 59.95,23.90 L60.05,23.60 M69.50,27.25 L70.95,28.20 Q66.50,43.55 59.45,59.15 L55.50,67.40 L53.65,66.70 Q63.35,48.15 69.30,28.05 L69.50,27.25 M39.10,43.65 L38.95,43.75 Q33.00,49.50 25.25,52.55 L23.85,51.65 L24.15,51.55 Q28.20,49.95 32.25,47.30 L39.10,43.65 Z"/>
+        <path fill="url(#G8)" d="M95.95,34.25 L96.10,34.25 Q91.70,54.25 92.80,74.75 L92.95,77.05 L91.25,76.75 Q89.95,57.10 94.05,37.90 L94.80,34.45 L95.95,34.25 M85.60,34.55 Q79.75,53.45 78.90,73.30 L78.90,74.35 L77.05,73.90 Q77.75,53.65 84.05,34.45 L84.15,34.20 L85.60,34.45 L85.60,34.55 M107.45,78.90 Q103.35,57.45 106.75,35.80 L106.85,35.40 L107.75,35.75 Q104.60,56.00 108.25,76.05 L108.80,79.05 L107.45,78.90 M56.25,22.10 L57.65,22.75 Q50.10,42.05 33.70,54.80 L31.70,56.40 L30.15,55.55 Q47.95,42.95 56.05,22.60 L56.25,22.10 M64.60,24.85 L66.10,25.45 Q61.20,44.45 49.45,60.05 L46.40,63.75 L44.55,62.90 Q58.95,46.60 64.45,25.30 L64.60,24.85 M74.45,30.55 L75.95,31.40 Q73.10,41.40 66.00,60.70 L62.55,69.85 L60.65,69.25 Q68.25,50.55 74.25,31.30 L74.45,30.55 Z"/>
+        <path fill="url(#G9)" d="M162.00,119.60 L154.30,123.90 L96.60,156.25 L96.60,155.90 L98.05,143.10 L154.50,112.05 L162.00,119.60 Z"/>
+        <path fill="url(#G10)" d="M63.95,133.95 L65.00,131.35 L96.60,143.50 L96.60,155.90 L96.60,156.25 L60.70,141.95 L62.35,137.85 L62.60,137.20 L63.95,133.95 M33.55,119.25 L29.50,124.35 L26.40,128.25 L0.50,117.90 L8.55,109.60 L33.55,119.25 Z"/>
+        <path fill="url(#G11)" d="M156.40,109.80 L163.20,118.90 L162.00,119.60 L154.50,112.05 L98.05,143.10 L96.60,155.90 L96.60,143.50 L96.60,141.90 L120.15,129.25 L143.90,116.55 L156.40,109.80 Z"/>
+        <path fill="url(#G12)" d="M2.65,114.80 L8.05,107.90 L34.50,118.05 L33.55,119.25 L8.55,109.60 L0.50,117.90 L2.65,114.80 M65.55,130.00 L96.60,141.90 L96.60,143.50 L65.00,131.35 L65.55,130.00 Z"/>
+        <path fill="url(#G13)" d="M34.90,122.40 L63.95,133.95 L62.60,137.20 L30.45,124.00 L34.90,122.40 Z"/>
+        <path fill="url(#G14)" d="M62.35,137.85 L60.70,141.95 L29.50,129.50 L29.50,124.35 L62.35,137.85 Z"/>
+        <path fill="url(#G15)" d="M63.50,129.20 L65.55,130.00 L65.00,131.35 L63.95,133.95 L34.90,122.40 L34.95,118.25 L63.50,129.20 Z"/>
+        <path fill="url(#G16)" d="M62.60,137.20 L62.35,137.85 L29.50,124.35 L30.45,124.00 L62.60,137.20 Z"/>
+        <path fill="url(#G17)" d="M65.55,130.00 L63.50,129.20 L99.40,132.95 L135.20,112.25 L120.15,129.25 L96.60,141.90 L65.55,130.00 Z"/>
+        <path fill="url(#G18)" d="M8.05,107.90 L33.20,98.45 L32.60,107.35 L33.45,107.65 L49.80,113.60 L50.60,113.90 L51.40,114.15 L52.65,114.60 L54.40,115.25 L56.95,116.20 L59.00,116.90 L61.20,117.70 L61.45,117.80 L61.85,117.95 L67.40,119.95 L69.75,120.80 L71.15,121.30 L72.05,121.65 L72.80,121.90 L97.55,130.85 L98.05,131.00 L136.70,111.40 L135.20,112.25 L99.40,132.95 L63.50,129.20 L34.95,118.25 L34.50,118.05 L8.05,107.90 Z"/>
+        <path fill="#FFFFFF" fill-opacity="1.00" d="M137.60,103.40 L156.40,109.80 L143.90,116.55 L153.55,109.90 L137.70,104.25 L137.60,103.40 Z"/>
+        <path fill="url(#G19)" d="M116.95,38.05 L116.75,39.40 Q112.15,60.30 117.55,81.10 L120.55,81.00 L120.60,80.95 L120.90,80.70 L121.75,78.90 L121.30,73.75 Q121.35,73.30 121.80,73.70 Q122.20,74.05 122.60,73.40 L123.05,70.05 L123.20,67.45 L123.35,67.45 L123.55,77.55 L123.15,77.90 Q122.75,80.20 122.95,82.45 Q123.15,84.90 120.75,86.00 L120.60,86.00 L119.10,85.85 L118.85,85.70 L117.80,84.60 L117.35,83.90 L115.45,79.95 L115.30,79.55 L115.25,79.40 Q110.90,60.15 113.75,40.25 L114.10,37.65 L116.95,38.05 Z"/>
+        <path fill="url(#G20)" d="M162.55,37.05 Q161.25,43.25 161.05,49.20 Q160.90,55.05 155.75,57.85 L151.75,58.85 L148.65,58.95 L144.15,57.65 L142.20,56.75 Q139.30,55.35 136.65,53.30 L135.40,52.30 Q132.10,49.45 129.10,45.50 L128.50,44.75 L123.45,36.60 L124.40,36.10 L125.35,37.90 Q132.80,52.70 147.90,55.40 L152.40,55.75 L154.25,54.95 Q156.00,54.20 156.65,52.45 Q159.35,44.70 162.55,37.05 Z"/>
+        <path fill="url(#G21)" d="M10.70,48.95 L6.65,47.80 Q5.20,45.15 2.75,43.30 Q1.45,42.30 1.00,40.65 Q5.00,41.40 7.10,44.50 L7.50,45.55 Q15.30,49.75 23.85,47.55 Q34.90,46.05 43.10,38.60 L44.60,37.25 L44.65,37.20 L47.65,33.70 L48.15,33.05 Q52.15,27.55 55.00,21.30 L55.90,21.90 Q51.75,33.50 42.05,41.45 L39.10,43.65 L32.25,47.30 Q26.95,49.40 21.25,49.40 L20.60,49.45 L10.70,48.95 Z"/>
+        <path fill="#99F09E" fill-opacity="1.00" d="M157.05,50.90 Q156.60,43.00 161.10,36.90 L162.55,37.05 Q159.35,44.70 156.65,52.45 Q156.00,54.20 154.25,54.95 L154.10,54.75 L154.75,54.25 L156.45,52.25 L157.05,50.90 M120.75,86.00 Q123.15,84.90 122.95,82.45 Q122.75,80.20 123.15,77.90 L123.55,77.55 L123.35,67.45 L123.25,66.05 L123.90,66.05 L124.55,70.40 L125.30,75.10 L125.55,77.30 L124.80,78.05 L123.80,79.25 L123.75,79.70 L123.75,81.15 L124.10,83.40 L124.05,83.80 L123.85,85.20 L120.80,86.00 L120.75,86.00 Z"/>
+        <path fill="url(#G22)" d="M116.75,39.40 L116.45,41.80 L116.05,47.00 L116.00,47.50 L115.90,56.10 L115.95,58.45 L116.20,65.60 L116.40,69.80 Q116.15,76.25 120.00,80.60 L120.50,80.95 L120.55,81.00 L117.55,81.10 Q112.15,60.30 116.75,39.40 Z"/>
+        <path fill="url(#G23)" d="M125.70,35.30 L126.45,36.90 Q129.20,42.30 133.40,46.60 L135.60,48.60 L139.75,51.60 Q143.50,54.30 147.90,55.40 Q132.80,52.70 125.35,37.90 L124.40,36.10 L125.70,35.30 Z"/>
+        <path fill="url(#G24)" d="M1.00,40.65 L0.05,36.85 Q0.75,38.30 1.70,39.35 Q2.20,40.00 2.85,40.25 Q8.00,40.90 8.45,45.65 L11.15,46.60 Q14.55,47.60 18.10,47.65 L20.15,47.65 L23.85,47.55 Q15.30,49.75 7.50,45.55 L7.10,44.50 Q5.00,41.40 1.00,40.65 Z"/>
+        <path fill="url(#G25)" d="M136.15,24.30 L136.90,23.10 Q137.40,22.75 138.80,22.25 L139.45,22.00 Q140.30,22.00 143.40,22.90 Q145.80,24.05 148.25,26.30 Q142.25,22.75 136.15,24.30 M101.55,23.55 Q102.05,24.05 102.10,25.10 Q85.90,28.55 72.65,19.30 L70.95,18.15 L70.70,16.60 L70.95,16.25 L71.40,16.10 Q76.35,17.20 80.85,20.00 L83.55,21.20 Q90.45,24.90 97.70,23.60 Q97.80,23.50 97.95,23.50 L101.55,23.55 M105.70,25.65 Q106.35,24.10 108.25,24.60 Q119.70,28.25 130.95,24.70 L131.15,26.30 Q119.45,32.00 107.60,26.30 Q106.65,25.90 105.70,25.65 M41.25,1.15 L43.55,0.45 L48.35,1.80 L47.15,2.50 L41.25,1.15 M59.80,9.10 L60.05,9.30 Q62.60,13.10 67.20,13.80 L67.15,14.60 L66.80,14.95 L63.50,15.15 L62.70,14.95 Q58.45,14.30 55.75,11.15 L54.90,7.45 Q57.35,6.60 59.80,9.10 Z"/>
+        <path fill="url(#G26)" d="M59.80,9.10 Q57.35,6.60 54.90,7.45 L55.75,11.15 L53.75,8.95 Q48.15,2.60 39.95,1.55 L41.25,1.15 L47.15,2.50 L48.35,1.80 L43.55,0.45 Q53.80,-0.40 59.35,8.50 L59.80,9.10 M138.80,22.25 Q137.40,22.75 136.90,23.10 L136.15,24.30 L131.15,26.30 L130.95,24.70 Q119.70,28.25 108.25,24.60 Q106.35,24.10 105.70,25.65 L102.10,25.10 Q102.05,24.05 101.55,23.55 L117.20,25.55 Q122.45,26.60 127.10,24.60 Q132.60,22.05 138.80,22.25 M60.05,9.30 Q60.55,9.75 61.30,10.00 Q71.55,13.80 80.85,20.00 Q76.35,17.20 71.40,16.10 L70.95,16.25 L70.70,16.60 L70.95,18.15 Q67.85,16.30 65.50,15.70 L63.50,15.15 L66.80,14.95 L67.15,14.60 L67.20,13.80 Q62.60,13.10 60.05,9.30 M83.55,21.20 Q90.60,23.15 97.95,23.50 Q97.80,23.50 97.70,23.60 Q90.45,24.90 83.55,21.20 Z"/>
+        <path fill="url(#G27)" d="M128.45,33.35 L125.70,35.30 L124.40,36.10 L123.45,36.60 L123.05,36.80 L120.50,37.80 L118.05,38.05 L116.95,38.05 L114.10,37.65 L107.75,35.75 L106.85,35.40 L101.90,34.30 L100.80,34.00 L96.15,34.20 L95.95,34.25 L94.80,34.45 L90.55,34.75 L89.15,34.75 L85.65,34.45 L85.60,34.45 L84.15,34.20 L80.10,33.20 L78.65,32.65 L75.95,31.40 L74.45,30.55 L70.95,28.20 L69.50,27.25 L66.10,25.45 L64.60,24.85 L61.60,24.00 L60.05,23.60 L57.65,22.75 L56.25,22.10 L55.90,21.90 L55.00,21.30 L52.75,19.15 Q55.15,15.15 60.50,17.10 Q72.35,21.40 83.85,26.50 Q89.35,28.95 95.35,29.05 Q104.00,28.20 111.90,30.80 Q119.50,33.35 127.55,31.05 Q128.15,30.90 128.30,31.80 L128.45,33.35 Z"/>
+        <path fill="url(#G28)" d="M128.45,33.35 L128.30,31.80 Q128.15,30.90 127.55,31.05 Q119.50,33.35 111.90,30.80 Q104.00,28.20 95.35,29.05 Q89.35,28.95 83.85,26.50 Q72.35,21.40 60.50,17.10 Q55.15,15.15 52.75,19.15 L52.50,18.45 Q50.15,6.65 39.95,1.55 Q48.15,2.60 53.75,8.95 L55.75,11.15 Q58.45,14.30 62.70,14.95 L63.50,15.15 L65.50,15.70 Q67.85,16.30 70.95,18.15 L72.65,19.30 Q85.90,28.55 102.10,25.10 L105.70,25.65 Q106.65,25.90 107.60,26.30 Q119.45,32.00 131.15,26.30 L136.15,24.30 Q142.25,22.75 148.25,26.30 Q139.60,23.85 131.55,30.80 L128.45,33.35 Z"/>
+        <path fill="url(#G29)" d="M24.15,56.70 L10.70,48.95 L20.60,49.45 L21.95,50.40 Q25.80,55.30 31.45,58.25 Q50.90,68.45 72.10,73.75 Q93.30,79.20 115.45,79.95 L117.35,83.90 L116.25,83.80 L115.20,83.70 L113.15,83.50 L112.10,83.35 L111.00,83.20 L106.50,82.60 L104.20,82.30 L99.80,81.60 L97.70,81.25 L93.95,80.55 L93.90,80.55 L91.65,80.10 L88.20,79.40 L85.50,78.85 L81.50,77.95 L79.50,77.45 L75.80,76.55 L73.80,76.00 L69.80,74.90 L67.45,74.25 L63.75,73.10 L61.85,72.50 L58.25,71.35 L55.65,70.45 L51.10,68.80 L48.70,67.85 L44.15,66.05 L41.45,64.90 L35.50,62.30 L33.10,61.15 L24.15,56.70 Z"/>
+        <path fill="url(#G30)" d="M11.15,46.60 L15.65,46.10 Q30.20,44.75 43.15,38.05 L44.65,37.20 L44.60,37.25 Q34.55,44.70 22.30,47.20 L20.15,47.65 L18.10,47.65 Q14.55,47.60 11.15,46.60 Z"/>
+        <path fill="url(#G31)" d="M155.75,57.85 L154.10,60.70 Q149.80,67.55 144.10,73.30 L140.10,76.70 L138.40,77.90 L138.20,78.05 L135.40,79.90 L133.10,81.05 L132.95,81.10 L125.50,83.20 L124.10,83.40 L123.75,81.15 Q144.30,78.05 152.35,59.00 L151.05,61.25 Q142.40,76.15 125.65,79.35 L127.15,78.95 L128.70,78.45 L130.60,77.75 L132.00,77.20 L134.95,75.80 L136.20,75.05 L138.50,73.60 L139.60,72.80 L142.50,70.40 L143.40,69.55 L144.55,68.45 L145.35,67.60 L147.15,65.50 L147.85,64.65 L149.10,62.90 L149.70,62.10 L151.75,58.85 L155.75,57.85 Z"/>
+        <path fill="url(#G32)" d="M139.75,51.60 L135.60,48.60 L137.80,49.25 Q146.90,51.95 156.45,52.25 L154.75,54.25 Q147.05,54.25 139.75,51.60 Z"/>
+        <path fill="url(#G33)" d="M133.40,46.60 Q143.85,50.95 157.05,50.90 L156.45,52.25 Q146.90,51.95 137.80,49.25 L135.60,48.60 L133.40,46.60 Z"/>
+        <path fill="url(#G34)" d="M123.75,81.15 L123.75,79.70 L124.05,79.70 L125.65,79.35 Q142.40,76.15 151.05,61.25 L152.35,59.00 Q144.30,78.05 123.75,81.15 Z"/>
+        <path fill="url(#G35)" d="M15.65,46.10 L17.65,45.80 Q33.90,42.65 47.65,33.70 L44.65,37.20 L43.15,38.05 Q30.20,44.75 15.65,46.10 Z"/>
+        <path fill="url(#G36)" d="M91.25,76.75 L92.95,77.05 L100.35,78.10 L101.95,78.30 L107.45,78.90 L108.80,79.05 L115.20,79.55 L115.30,79.55 L115.45,79.95 Q93.30,79.20 72.10,73.75 Q50.90,68.45 31.45,58.25 Q25.80,55.30 21.95,50.40 L23.85,51.65 L25.25,52.55 L30.15,55.55 L31.70,56.40 L38.15,59.90 L39.85,60.70 L44.55,62.90 L46.40,63.75 L53.65,66.70 L55.50,67.40 L60.65,69.25 L62.55,69.85 L69.75,72.05 L71.70,72.55 L77.05,73.90 L78.90,74.35 L83.70,75.40 L85.50,75.75 L91.25,76.75 Z"/>
+        <path fill="url(#G37)" d="M144.10,73.30 L142.80,75.70 L140.10,76.70 L144.10,73.30 M112.95,83.85 L112.15,86.55 L111.15,87.20 Q110.65,85.20 112.95,83.85 M111.95,87.10 L114.85,85.85 L116.20,85.30 L117.80,84.60 L118.85,85.70 L107.35,89.75 L107.85,88.85 L110.00,87.90 L111.95,87.10 M116.20,84.00 L116.20,84.85 L115.15,84.90 L116.20,84.00 M124.05,83.80 L124.10,83.40 L125.50,83.20 L124.05,83.80 M111.60,89.95 L109.60,94.50 Q107.95,99.05 107.55,104.05 Q107.15,108.10 107.65,112.45 L105.30,114.30 Q104.75,101.25 111.60,89.95 M135.05,80.75 L134.25,82.95 L134.00,83.65 Q131.05,91.55 131.45,99.95 L131.50,100.70 L130.10,101.45 Q129.55,91.95 132.75,83.15 L133.10,82.50 L135.05,80.75 Z"/>
+        <path fill="url(#G38)" d="M57.45,100.50 L56.20,92.25 Q56.45,92.05 56.80,92.05 Q59.90,91.00 63.40,92.15 L63.25,93.80 L57.45,100.50 M56.70,110.30 L62.35,104.70 L61.70,111.80 L56.95,116.20 L54.40,115.25 Q55.90,113.50 56.70,110.30 M64.05,92.30 L64.45,92.45 L64.00,93.00 L64.05,92.30 M63.00,104.05 L70.90,96.20 Q71.35,96.90 71.35,97.70 L69.25,104.85 L62.40,111.15 L63.00,104.05 M68.05,109.55 L67.95,109.95 Q66.85,114.85 67.40,119.95 L61.85,117.95 L62.15,114.35 L68.05,109.55 M59.00,116.90 L61.45,114.95 L61.20,117.70 L59.00,116.90 M61.45,117.80 L61.55,117.10 L61.45,117.80 Z"/>
+        <path fill="url(#G39)" d="M71.15,121.30 Q67.70,107.70 77.15,97.60 L74.60,94.65 Q64.40,84.45 51.25,89.90 L52.20,91.85 Q56.30,103.10 51.40,114.15 L50.60,113.90 L51.10,112.80 Q55.45,101.50 49.75,91.15 Q51.05,86.15 56.70,86.00 Q65.70,85.60 73.70,90.20 Q79.35,93.35 78.95,99.25 Q70.00,107.95 71.80,120.15 L72.05,121.65 L71.15,121.30 Z"/>
+        <path fill="url(#G40)" d="M71.15,121.30 L69.75,120.80 Q67.20,107.95 74.85,97.80 L75.95,96.85 L72.80,94.25 Q70.95,92.90 69.10,92.10 L65.80,90.90 L64.25,90.45 L63.55,90.25 L52.90,89.80 L53.30,90.70 Q55.35,96.55 55.50,102.75 Q55.30,107.35 53.75,111.75 L52.85,114.10 L52.65,114.60 L51.40,114.15 Q56.30,103.10 52.20,91.85 L51.25,89.90 Q64.40,84.45 74.60,94.65 L77.15,97.60 Q67.70,107.70 71.15,121.30 M49.75,91.15 Q55.45,101.50 51.10,112.80 L50.60,113.90 L49.80,113.60 L51.80,105.20 L51.90,103.05 L51.90,102.10 L50.80,94.60 L49.75,91.15 M72.05,121.65 L71.80,120.15 Q70.00,107.95 78.95,99.25 L78.05,101.05 L73.50,109.60 L73.25,110.60 Q72.50,113.50 72.50,116.70 Q72.50,119.90 72.80,121.90 L72.05,121.65 Z"/>
+        <path fill="url(#G41)" d="M33.20,98.45 L33.25,96.40 L51.90,103.05 L51.80,105.20 Q49.65,109.05 45.45,108.15 Q38.30,106.55 34.80,99.80 L33.45,107.65 L32.60,107.35 L33.20,98.45 M97.55,130.85 L97.25,120.75 L95.65,126.60 L95.25,126.75 Q87.90,121.95 79.75,119.00 Q74.20,116.90 74.05,110.90 L98.50,119.60 L98.05,131.00 L97.55,130.85 Z"/>
+        <path fill="url(#G42)" d="M137.25,98.45 L137.60,103.40 L137.70,104.25 L138.40,107.35 Q126.40,115.90 112.55,120.85 Q105.70,123.30 103.10,117.10 L137.25,98.45 Z"/>
+        <path fill="url(#G43)" d="M63.40,92.15 Q59.90,91.00 56.80,92.05 Q56.45,92.05 56.20,92.25 L57.45,100.50 L55.50,102.75 Q55.35,96.55 53.30,90.70 L52.90,89.80 L63.55,90.25 L63.40,92.15 M52.65,114.60 L52.85,114.10 L56.70,110.30 Q55.90,113.50 54.40,115.25 L52.65,114.60 M64.25,90.45 L65.80,90.90 L64.45,92.45 L64.05,92.30 L64.25,90.45 M72.80,94.25 L75.95,96.85 L74.85,97.80 Q67.20,107.95 69.75,120.80 L67.40,119.95 Q66.85,114.85 67.95,109.95 L68.05,109.55 Q68.50,107.30 69.25,104.85 L71.35,97.70 Q71.35,96.90 70.90,96.20 L72.80,94.25 Z"/>
+        <path fill="#332145" fill-opacity="1.00" d="M63.25,93.80 L63.40,92.15 L63.55,90.25 L64.25,90.45 L64.05,92.30 L64.00,93.00 L63.00,104.05 L62.40,111.15 L62.15,114.35 L61.85,117.95 L61.45,117.80 L61.20,117.70 L61.45,114.95 L61.70,111.80 L62.35,104.70 L63.25,93.80 M61.45,117.80 L61.55,117.10 L61.45,117.80 Z"/>
+        <path fill="url(#G44)" d="M57.45,100.50 L63.25,93.80 L62.35,104.70 L56.70,110.30 L57.45,100.50 M64.00,93.00 L64.45,92.45 L66.60,93.25 Q69.85,94.60 70.90,96.20 L63.00,104.05 L64.00,93.00 M69.25,104.85 Q68.50,107.30 68.05,109.55 L62.15,114.35 L62.40,111.15 L69.25,104.85 M61.70,111.80 L61.45,114.95 L59.00,116.90 L56.95,116.20 L61.70,111.80 Z"/>
+        <path fill="url(#G45)" d="M55.50,102.75 L57.45,100.50 L56.70,110.30 L52.85,114.10 L53.75,111.75 Q55.30,107.35 55.50,102.75 M65.80,90.90 L69.10,92.10 Q70.95,92.90 72.80,94.25 L70.90,96.20 Q69.85,94.60 66.60,93.25 L64.45,92.45 L65.80,90.90 Z"/>
+        <path fill="url(#G46)" d="M33.30,92.65 L33.25,90.45 Q33.10,79.30 31.20,71.35 Q40.95,80.85 38.60,94.70 L37.90,94.90 Q35.40,94.65 33.30,92.65 M29.65,66.10 L29.50,65.60 L30.25,66.35 L29.65,66.10 M93.90,80.55 L93.95,80.55 L93.90,80.65 L93.90,80.55 M81.20,88.05 L89.10,90.35 L89.20,91.00 Q89.60,98.85 88.85,106.85 L88.35,109.45 L87.15,112.10 Q81.35,112.00 79.85,106.75 Q79.20,104.50 79.90,102.10 Q81.15,97.75 78.65,94.60 Q69.25,83.00 54.70,85.40 Q51.65,86.05 50.40,88.75 Q48.55,92.70 50.15,96.85 Q50.65,98.25 50.80,99.80 Q49.55,101.50 46.90,99.95 L45.80,99.30 Q43.75,98.55 43.45,96.45 Q42.35,88.10 42.90,79.80 Q43.50,79.00 44.55,79.05 Q54.30,79.30 63.50,82.00 L81.20,88.05 M98.85,94.10 L99.85,94.35 Q99.75,105.70 97.50,117.00 L96.90,116.85 Q94.65,116.15 93.35,114.60 Q92.55,103.40 98.85,94.10 Z"/>
+        <path fill="url(#G47)" d="M30.45,68.45 L29.65,66.10 L30.25,66.35 L32.25,67.25 L34.10,68.05 L36.00,68.90 L39.90,70.50 L41.35,71.10 L43.55,71.95 L46.95,73.25 L48.30,73.75 L50.60,74.60 L53.80,75.75 L54.80,76.10 L57.30,76.95 L59.90,77.80 L61.20,78.25 L63.30,78.90 L66.25,79.85 L67.20,80.10 L69.10,80.70 L71.95,81.50 L73.40,81.90 L75.20,82.40 L77.65,83.05 L78.90,83.40 L80.60,83.80 L83.25,84.50 L84.70,84.85 L87.30,85.45 L89.95,86.05 L91.10,86.30 L93.10,86.75 L95.75,87.30 L97.00,87.55 L99.10,88.00 L102.50,88.65 L103.65,88.85 L105.55,89.20 L106.80,89.40 L106.20,90.45 Q87.25,87.70 68.95,82.20 Q49.20,76.50 30.45,68.45 M91.45,82.20 L92.25,81.20 L93.00,81.55 Q93.70,83.95 92.40,85.80 L91.15,85.65 L91.45,82.20 M97.50,83.10 L98.45,82.60 L99.00,82.80 Q99.65,85.40 98.15,87.20 L97.05,87.05 L97.50,83.10 M79.25,79.90 Q79.85,78.75 80.80,79.10 L80.00,83.10 L78.95,83.05 L79.25,79.90 M84.80,84.35 L85.15,81.45 L86.50,80.20 L86.80,80.70 Q87.45,82.75 86.70,84.70 L84.80,84.35 M93.10,90.55 L95.05,92.30 Q91.25,103.25 90.65,114.70 L89.15,113.95 Q89.75,100.40 93.10,90.55 M103.75,88.00 L104.00,84.65 L105.15,83.50 Q106.60,85.65 104.75,88.20 L103.75,88.00 M33.55,64.30 L34.10,63.30 L34.90,63.65 L35.40,68.00 L34.70,68.00 L34.05,67.60 L33.55,64.30 M41.40,70.15 L41.45,67.05 L42.25,66.20 L43.30,66.35 Q44.10,69.05 42.90,70.90 L41.40,70.15 M37.45,72.90 L39.60,73.90 Q42.20,85.40 40.70,97.20 L39.35,96.65 L39.50,93.60 Q40.15,83.10 37.50,73.00 L37.45,72.90 M61.25,77.90 L61.70,74.10 L62.65,73.80 L62.55,78.20 L61.25,77.90 M48.35,72.95 L48.55,69.85 L49.35,69.15 L49.95,69.25 Q51.30,71.80 49.70,73.90 L48.35,72.95 M55.05,74.30 Q55.60,72.40 57.10,72.20 Q57.80,74.25 56.75,75.90 L54.85,75.60 L55.05,74.30 M73.70,77.70 L74.25,77.50 L75.00,77.70 L74.75,81.25 L73.45,80.95 L73.70,77.70 M67.35,76.95 L68.60,75.50 L68.60,79.80 L67.25,79.45 L67.35,76.95 Z"/>
+        <path fill="url(#G48)" d="M140.75,80.05 Q137.75,87.20 137.30,94.80 L136.20,96.05 Q134.40,98.20 133.30,98.20 L132.85,98.10 L132.50,97.75 Q132.10,90.50 134.00,83.65 L134.25,82.95 L140.75,80.05 M127.90,86.15 L128.70,86.55 Q129.55,94.15 125.65,100.20 Q124.35,102.30 122.25,103.85 Q115.85,108.40 108.60,111.60 Q107.55,100.15 117.55,93.15 L127.90,86.15 M102.80,114.70 L99.90,116.55 L103.35,110.05 L102.80,114.70 Z"/>
+        <path fill="url(#G49)" d="M154.30,123.90 L94.40,162.65 L-10.10,119.70 L2.65,114.80 L0.50,117.90 L26.40,128.25 L29.50,129.50 L60.70,141.95 L96.60,156.25 L154.30,123.90 Z"/>
+        <path fill="url(#G50)" d="M33.30,94.35 L33.30,92.65 Q35.40,94.65 37.90,94.90 L38.60,94.70 Q40.95,80.85 31.20,71.35 L30.65,69.20 L37.20,72.00 L37.45,72.90 L37.50,73.00 Q40.15,83.10 39.50,93.60 L38.50,96.30 L33.30,94.35 M29.50,65.60 L27.20,60.80 L30.90,62.70 L32.25,67.25 L30.25,66.35 L29.50,65.60 M93.10,86.75 L93.65,82.50 L96.20,83.00 L96.35,83.70 Q96.60,85.60 95.75,87.30 L93.10,86.75 M99.10,88.00 L99.60,83.50 L102.50,83.90 L102.70,84.80 Q103.00,86.75 102.50,88.65 L99.10,88.00 M87.90,81.55 L89.65,81.80 L89.90,82.40 Q90.55,84.15 89.95,86.05 L87.30,85.45 L87.90,81.55 M80.60,83.80 L81.15,80.40 L83.25,81.20 L83.25,84.50 L80.60,83.80 M88.85,106.85 Q89.60,98.85 89.20,91.00 L89.10,90.35 L81.20,88.05 Q87.35,87.65 91.80,90.95 L91.80,91.25 L88.85,106.85 M63.50,82.00 Q54.30,79.30 44.55,79.05 Q43.50,79.00 42.90,79.80 Q42.35,88.10 43.45,96.45 Q43.75,98.55 45.80,99.30 Q42.40,98.55 42.00,95.20 Q41.75,93.45 41.65,91.70 L41.45,78.40 Q41.40,76.30 43.30,76.60 Q53.60,78.65 63.50,82.00 M50.80,99.80 Q50.65,98.25 50.15,96.85 Q48.55,92.70 50.40,88.75 Q51.65,86.05 54.70,85.40 Q69.25,83.00 78.65,94.60 Q81.15,97.75 79.90,102.10 Q79.20,104.50 79.85,106.75 Q81.35,112.00 87.15,112.10 L88.35,109.45 L87.55,114.15 Q80.85,112.20 75.50,108.10 L78.05,101.05 L78.95,99.25 Q79.35,93.35 73.70,90.20 Q65.70,85.60 56.70,86.00 Q51.05,86.15 49.75,91.15 L50.80,94.60 L50.80,99.80 M91.75,116.10 Q92.05,106.75 93.70,100.40 L93.75,100.20 Q94.80,96.70 97.35,93.90 Q101.50,89.35 104.70,93.55 Q99.95,105.05 98.70,117.20 L98.70,117.35 L98.60,118.50 L91.75,116.10 M98.85,94.10 Q92.55,103.40 93.35,114.60 Q94.65,116.15 96.90,116.85 L97.50,117.00 Q99.75,105.70 99.85,94.35 L98.85,94.10 M106.85,89.25 L106.80,89.40 L105.55,89.20 L106.30,84.10 L109.00,84.15 L109.25,85.55 L106.85,89.25 M36.00,68.90 L35.75,65.20 L39.60,66.95 L39.90,70.50 L36.00,68.90 M57.85,73.70 L59.80,74.45 Q60.45,75.35 60.35,76.35 L59.90,77.80 L57.30,76.95 L57.85,73.70 M43.55,71.95 L43.95,68.35 L46.75,69.55 L46.95,73.25 L43.55,71.95 M50.60,74.60 L50.95,70.95 L53.60,72.20 L53.75,72.70 Q54.35,74.20 53.80,75.75 L50.60,74.60 M75.20,82.40 L75.55,79.35 L77.35,79.70 L77.80,80.50 Q78.30,81.80 77.65,83.05 L75.20,82.40 M71.95,81.50 L69.10,80.70 L69.45,77.85 L72.10,78.55 L71.95,81.50 M66.25,79.85 L63.30,78.90 L63.55,75.90 L66.25,76.95 L66.25,79.85 Z"/>
+        <path fill="url(#G51)" d="M142.00,77.25 L140.75,80.05 L134.25,82.95 L135.05,80.75 L142.00,77.25 M137.30,94.80 L137.25,97.05 Q135.25,98.65 133.30,98.20 Q134.40,98.20 136.20,96.05 L137.30,94.80 M105.05,92.70 L101.55,104.95 Q102.75,101.25 104.85,98.10 Q105.50,99.35 104.95,101.10 Q103.65,105.10 104.05,109.40 Q104.75,116.25 98.70,117.35 L98.70,117.20 Q99.95,105.05 104.70,93.55 L105.05,92.70 M109.60,94.50 Q119.45,87.50 130.85,83.05 Q128.35,91.35 128.05,99.90 Q128.00,100.75 127.40,101.15 Q118.00,107.50 107.65,112.50 L107.65,112.45 Q107.15,108.10 107.55,104.05 Q107.95,99.05 109.60,94.50 M133.05,81.15 L132.95,81.10 L133.10,81.05 L133.05,81.15 M127.90,86.15 L117.55,93.15 Q107.55,100.15 108.60,111.60 Q115.85,108.40 122.25,103.85 Q124.35,102.30 125.65,100.20 Q129.55,94.15 128.70,86.55 L127.90,86.15 M132.50,98.00 L132.50,97.75 L132.85,98.10 L132.50,98.00 M102.80,114.70 L103.35,110.05 L99.90,116.55 L102.80,114.70 Z"/>
+        <path fill="url(#G52)" d="M33.25,95.25 L33.30,94.35 L38.50,96.30 L39.50,93.60 L39.35,96.65 L39.30,97.45 L33.25,95.25 M27.20,60.80 L24.15,56.70 L33.10,61.15 L33.55,64.30 L34.05,67.60 L34.10,68.05 L32.25,67.25 L30.90,62.70 L27.20,60.80 M93.90,80.65 L93.95,80.55 L97.70,81.25 L97.50,83.10 L97.05,87.05 L97.00,87.55 L95.75,87.30 Q96.60,85.60 96.35,83.70 L96.20,83.00 L93.65,82.50 L93.90,80.65 M99.80,81.60 L104.20,82.30 L104.00,84.65 L103.75,88.00 L103.65,88.85 L102.50,88.65 Q103.00,86.75 102.70,84.80 L102.50,83.90 L99.60,83.50 L99.80,81.60 M106.50,82.60 L111.00,83.20 L109.25,85.55 L109.00,84.15 L106.30,84.10 L106.50,82.60 M91.45,82.20 L91.15,85.65 L91.10,86.30 L89.95,86.05 Q90.55,84.15 89.90,82.40 L89.65,81.80 L87.90,81.55 L88.20,79.40 L91.65,80.10 L91.45,82.20 M81.50,77.95 L85.50,78.85 L85.15,81.45 L84.80,84.35 L84.70,84.85 L83.25,84.50 L83.25,81.20 L81.15,80.40 L81.50,77.95 M79.50,77.45 L79.25,79.90 L78.95,83.05 L78.90,83.40 L77.65,83.05 Q78.30,81.80 77.80,80.50 L77.35,79.70 L75.55,79.35 L75.80,76.55 L79.50,77.45 M81.20,88.05 L63.50,82.00 Q53.60,78.65 43.30,76.60 Q41.40,76.30 41.45,78.40 L41.15,73.65 L51.35,77.45 Q72.05,84.80 93.55,89.25 L93.10,90.50 L93.10,90.55 Q89.75,100.40 89.15,113.95 L89.10,115.15 L73.50,109.60 L78.05,101.05 L75.50,108.10 Q80.85,112.20 87.55,114.15 L88.35,109.45 L88.85,106.85 L91.80,91.25 L91.80,90.95 Q87.35,87.65 81.20,88.05 M45.80,99.30 L46.90,99.95 Q49.55,101.50 50.80,99.80 L50.80,94.60 L51.90,102.10 L41.30,98.20 L41.65,91.70 Q41.75,93.45 42.00,95.20 Q42.40,98.55 45.80,99.30 M96.45,93.10 L98.50,90.25 L105.65,91.55 L105.05,92.70 L104.70,93.55 Q101.50,89.35 97.35,93.90 Q94.80,96.70 93.75,100.20 Q94.80,96.00 96.45,93.10 M35.75,65.20 L35.50,62.30 L41.45,64.90 L41.45,67.05 L41.40,70.15 L41.35,71.10 L39.90,70.50 L39.60,66.95 L35.75,65.20 M63.75,73.10 L67.45,74.25 L67.35,76.95 L67.25,79.45 L67.20,80.10 L66.25,79.85 L66.25,76.95 L63.55,75.90 L63.75,73.10 M69.80,74.90 L73.80,76.00 L73.70,77.70 L73.45,80.95 L73.40,81.90 L71.95,81.50 L72.10,78.55 L69.45,77.85 L69.80,74.90 M61.85,72.50 L61.70,74.10 L61.25,77.90 L61.20,78.25 L59.90,77.80 L60.35,76.35 Q60.45,75.35 59.80,74.45 L57.85,73.70 L58.25,71.35 L61.85,72.50 M44.15,66.05 L48.70,67.85 L48.55,69.85 L48.35,72.95 L48.30,73.75 L46.95,73.25 L46.75,69.55 L43.95,68.35 L44.15,66.05 M51.10,68.80 L55.65,70.45 L55.05,74.30 L54.85,75.60 L54.80,76.10 L53.80,75.75 Q54.35,74.20 53.75,72.70 L53.60,72.20 L50.95,70.95 L51.10,68.80 Z"/>
+        <path fill="url(#G53)" d="M142.50,76.35 L142.00,77.25 L135.05,80.75 L135.40,79.90 L138.20,78.05 L138.45,77.95 L142.50,76.35 M137.25,97.05 L137.25,97.60 L132.70,100.05 L132.50,98.00 L132.85,98.10 L133.30,98.20 Q135.25,98.65 137.25,97.05 M111.00,83.20 L112.10,83.35 L110.00,87.90 L107.85,88.85 L106.85,89.25 L109.25,85.55 L111.00,83.20 M113.15,83.50 L115.20,83.70 L114.85,85.85 L111.95,87.10 L112.15,86.55 L112.95,83.85 L113.15,83.50 M116.25,83.80 L117.35,83.90 L117.80,84.60 L116.20,85.30 L116.20,84.85 L116.20,84.00 L116.25,83.80 M119.10,85.85 L120.60,86.00 L120.80,86.00 L123.85,85.20 L124.05,83.80 L125.50,83.20 L132.95,81.10 L133.05,81.15 L132.15,83.35 Q129.75,90.25 129.50,97.65 L129.35,101.85 L107.75,113.55 L107.65,112.50 Q118.00,107.50 127.40,101.15 Q128.00,100.75 128.05,99.90 Q128.35,91.35 130.85,83.05 Q119.45,87.50 109.60,94.50 L111.60,89.95 L111.60,89.85 L112.25,88.75 L119.10,85.85 M105.65,91.55 L110.25,89.60 L106.50,97.90 Q104.25,105.70 104.30,113.85 L104.35,115.40 L98.60,118.50 L98.70,117.35 Q104.75,116.25 104.05,109.40 Q103.65,105.10 104.95,101.10 Q105.50,99.35 104.85,98.10 Q102.75,101.25 101.55,104.95 L105.05,92.70 L105.65,91.55 Z"/>
+        <path fill="url(#G54)" d="M51.80,105.20 L49.80,113.60 L33.45,107.65 L34.80,99.80 Q38.30,106.55 45.45,108.15 Q49.65,109.05 51.80,105.20 M73.25,110.60 L74.05,110.90 Q74.20,116.90 79.75,119.00 Q87.90,121.95 95.25,126.75 L95.65,126.60 L97.25,120.75 L97.55,130.85 L72.80,121.90 Q72.50,119.90 72.50,116.70 Q72.50,113.50 73.25,110.60 Z"/>
+        <path fill="#63AEE0" fill-opacity="1.00" d="M73.25,110.60 L73.50,109.60 L89.10,115.15 L91.75,116.10 L98.60,118.50 L98.50,119.60 L103.10,117.10 Q105.70,123.30 112.55,120.85 Q126.40,115.90 138.40,107.35 L139.25,110.10 L136.70,111.40 L98.05,131.00 L98.50,119.60 L74.05,110.90 L73.25,110.60 M33.25,96.40 L33.25,95.25 L39.30,97.45 L41.30,98.20 L51.90,102.10 L51.90,103.05 L33.25,96.40 Z"/>
+        <path fill="#79ECEC" fill-opacity="1.00" d="M137.25,97.60 L137.25,98.45 L103.10,117.10 L98.50,119.60 L98.60,118.50 L104.35,115.40 L107.75,113.55 L129.35,101.85 L130.10,101.45 L131.50,100.70 L132.70,100.05 L137.25,97.60 Z"/>
+        <path fill="url(#G55)" d="M131.50,100.70 L131.45,99.95 Q131.05,91.55 134.00,83.65 Q132.10,90.50 132.50,97.75 L132.50,98.00 L132.70,100.05 L131.50,100.70 Z"/>
+        <path fill="url(#G56)" d="M142.80,75.70 L142.50,76.35 L138.45,77.95 L138.40,77.90 L140.10,76.70 L142.80,75.70 M112.10,83.35 L113.15,83.50 L112.95,83.85 Q110.65,85.20 111.15,87.20 L112.15,86.55 L111.95,87.10 L110.00,87.90 L112.10,83.35 M115.20,83.70 L116.25,83.80 L116.20,84.00 L115.15,84.90 L116.20,84.85 L116.20,85.30 L114.85,85.85 L115.20,83.70 M118.85,85.70 L119.10,85.85 L112.25,88.75 L110.25,89.60 L105.65,91.55 L106.20,90.45 L106.80,89.40 L106.85,89.25 L107.85,88.85 L107.35,89.75 L118.85,85.70 M104.35,115.40 L104.30,113.85 Q104.25,105.70 106.50,97.90 L106.80,97.35 Q108.45,93.00 111.60,89.85 L111.60,89.95 Q104.75,101.25 105.30,114.30 L107.65,112.45 L107.65,112.50 L107.75,113.55 L104.35,115.40 M129.35,101.85 L129.50,97.65 Q129.75,90.25 132.15,83.35 L133.10,82.50 L132.75,83.15 Q129.55,91.95 130.10,101.45 L129.35,101.85 Z"/>
+        <path fill="url(#G57)" d="M30.65,69.20 L30.45,68.45 Q49.20,76.50 68.95,82.20 Q87.25,87.70 106.20,90.45 L105.65,91.55 L98.50,90.25 L93.55,89.25 Q72.05,84.80 51.35,77.45 L41.15,73.65 L37.20,72.00 L30.65,69.20 M93.90,80.55 L93.90,80.65 L93.65,82.50 L93.10,86.75 L91.10,86.30 L91.15,85.65 L92.40,85.80 Q93.70,83.95 93.00,81.55 L92.25,81.20 L91.45,82.20 L91.65,80.10 L93.90,80.55 M97.70,81.25 L99.80,81.60 L99.60,83.50 L99.10,88.00 L97.00,87.55 L97.05,87.05 L98.15,87.20 Q99.65,85.40 99.00,82.80 L98.45,82.60 L97.50,83.10 L97.70,81.25 M104.20,82.30 L106.50,82.60 L106.30,84.10 L105.55,89.20 L103.65,88.85 L103.75,88.00 L104.75,88.20 Q106.60,85.65 105.15,83.50 L104.00,84.65 L104.20,82.30 M88.20,79.40 L87.90,81.55 L87.30,85.45 L84.70,84.85 L84.80,84.35 L86.70,84.70 Q87.45,82.75 86.80,80.70 L86.50,80.20 L85.15,81.45 L85.50,78.85 L88.20,79.40 M81.50,77.95 L81.15,80.40 L80.60,83.80 L78.90,83.40 L78.95,83.05 L80.00,83.10 L80.80,79.10 Q79.85,78.75 79.25,79.90 L79.50,77.45 L81.50,77.95 M93.10,90.50 L93.35,90.50 Q96.50,90.25 96.45,93.10 Q94.80,96.00 93.75,100.20 L93.70,100.40 Q92.05,106.75 91.75,116.10 L89.10,115.15 L89.15,113.95 L90.65,114.70 Q91.25,103.25 95.05,92.30 L93.10,90.55 L93.10,90.50 M35.50,62.30 L35.75,65.20 L36.00,68.90 L34.10,68.05 L34.05,67.60 L34.70,68.00 L35.40,68.00 L34.90,63.65 L34.10,63.30 L33.55,64.30 L33.10,61.15 L35.50,62.30 M41.35,71.10 L41.40,70.15 L42.90,70.90 Q44.10,69.05 43.30,66.35 L42.25,66.20 L41.45,67.05 L41.45,64.90 L44.15,66.05 L43.95,68.35 L43.55,71.95 L41.35,71.10 M39.35,96.65 L40.70,97.20 Q42.20,85.40 39.60,73.90 Q40.65,75.20 41.45,78.40 L41.65,91.70 L41.30,98.20 L39.30,97.45 L39.35,96.65 M61.85,72.50 L63.75,73.10 L63.55,75.90 L63.30,78.90 L61.20,78.25 L61.25,77.90 L62.55,78.20 L62.65,73.80 L61.70,74.10 L61.85,72.50 M67.45,74.25 L69.80,74.90 L69.45,77.85 L69.10,80.70 L67.20,80.10 L67.25,79.45 L68.60,79.80 L68.60,75.50 L67.35,76.95 L67.45,74.25 M73.80,76.00 L75.80,76.55 L75.55,79.35 L75.20,82.40 L73.40,81.90 L73.45,80.95 L74.75,81.25 L75.00,77.70 L74.25,77.50 L73.70,77.70 L73.80,76.00 M58.25,71.35 L57.85,73.70 L57.30,76.95 L54.80,76.10 L54.85,75.60 L56.75,75.90 Q57.80,74.25 57.10,72.20 Q55.60,72.40 55.05,74.30 L55.65,70.45 L58.25,71.35 M48.70,67.85 L51.10,68.80 L50.95,70.95 L50.60,74.60 L48.30,73.75 L48.35,72.95 L49.70,73.90 Q51.30,71.80 49.95,69.25 L49.35,69.15 L48.55,69.85 L48.70,67.85 Z"/>
+        <path fill="url(#G58)" d="M93.10,90.50 L93.55,89.25 L98.50,90.25 L96.45,93.10 Q96.50,90.25 93.35,90.50 L93.10,90.50 M41.15,73.65 L41.45,78.40 Q40.65,75.20 39.60,73.90 L37.45,72.90 L37.20,72.00 L41.15,73.65 Z"/>
+        <path fill="url(#G59)" d="M110.25,89.60 L112.25,88.75 L111.60,89.85 Q108.45,93.00 106.80,97.35 L106.50,97.90 L110.25,89.60 M132.15,83.35 L133.05,81.15 L133.10,81.05 L135.40,79.90 L135.05,80.75 L133.10,82.50 L132.15,83.35 Z"/>
+        <path fill="url(#G60)" d="M136.70,111.40 L139.25,110.10 L138.40,107.35 L137.70,104.25 L153.55,109.90 L143.90,116.55 L120.15,129.25 L135.20,112.25 L136.70,111.40 Z"/>
+        <path fill="#000000" fill-opacity="0.50" d="M123.30,36.65 L123.45,36.60 L124.50,38.65 Q126.25,41.80 128.30,44.50 L128.50,44.75 L129.10,45.50 Q132.10,49.45 135.40,52.30 L136.65,53.30 Q139.30,55.35 142.20,56.75 L144.15,57.65 L148.65,58.95 L151.75,58.85 L149.70,62.10 L149.10,62.90 L147.85,64.65 L147.15,65.50 L145.35,67.60 L144.55,68.45 L143.40,69.55 L142.50,70.40 L139.60,72.80 L138.50,73.60 L136.25,75.05 Q140.30,71.75 142.40,69.30 L145.70,65.25 Q147.00,63.35 147.35,62.10 Q147.65,60.80 141.75,59.10 Q135.85,57.40 134.05,55.85 Q132.25,54.30 127.90,47.85 Q124.25,42.40 121.70,42.40 Q119.00,42.40 117.50,48.60 Q116.20,53.95 116.20,61.80 Q116.20,65.40 117.40,73.50 Q117.55,75.95 117.95,77.75 L117.70,77.15 Q116.75,75.10 116.40,69.80 L116.30,67.85 L116.25,67.00 L116.20,65.60 L116.10,62.10 L115.95,58.45 L115.90,56.10 L115.90,53.50 L116.00,47.50 L116.05,47.00 L116.45,41.80 L116.50,41.40 L116.75,39.40 L116.85,38.70 L116.95,38.05 L117.00,38.05 L117.50,38.05 L118.05,38.05 L118.30,38.05 L119.05,38.05 L120.50,37.80 L120.75,37.70 L123.05,36.80 Q123.15,36.70 123.30,36.65 M100.80,34.00 L101.90,34.15 L101.90,34.30 L101.90,34.15 L103.25,34.40 L106.85,35.40 L107.75,35.75 L107.85,35.80 L108.45,36.00 L114.05,37.65 L114.10,37.65 Q113.50,43.00 113.25,47.70 Q112.75,55.75 112.85,62.10 L113.05,66.90 Q113.20,69.70 113.50,72.10 Q114.10,76.50 115.25,79.40 L115.20,79.55 L110.00,79.15 L110.10,79.10 Q112.30,78.25 112.30,76.90 L111.40,73.40 L110.30,69.50 Q109.75,67.65 109.60,63.80 L109.30,57.70 Q108.30,47.70 106.75,44.25 Q104.15,38.50 97.55,38.50 L96.05,38.60 L95.60,38.70 L91.05,39.30 L86.50,38.80 Q85.00,38.60 82.00,37.50 L74.00,33.60 Q68.95,31.10 66.45,29.95 Q62.10,28.00 59.95,28.00 Q57.45,28.00 55.70,29.55 Q54.45,30.70 52.50,33.90 Q50.00,37.95 45.60,41.80 Q41.20,45.50 36.30,47.20 Q32.55,48.95 31.00,49.50 L28.80,50.30 L27.65,50.80 L27.60,51.60 Q27.60,53.35 29.70,55.05 L31.10,56.05 L30.15,55.55 L25.25,52.55 L23.85,51.65 L21.95,50.40 L20.60,49.45 L21.25,49.40 L24.60,49.15 Q28.45,48.80 32.25,47.30 L33.30,46.85 L35.55,45.70 L38.95,43.75 L39.10,43.65 Q45.20,39.60 49.60,33.65 L50.05,33.00 L51.60,30.65 L52.65,28.90 L53.80,26.70 L55.90,21.90 L56.25,22.10 L57.65,22.75 L59.35,23.35 L60.05,23.60 L61.60,24.00 L63.65,24.55 L64.40,24.80 L64.60,24.85 L66.10,25.45 L69.50,27.25 L70.95,28.20 L72.65,29.40 L74.45,30.55 L75.95,31.40 L78.65,32.65 L80.10,33.20 L81.00,33.50 L84.15,34.20 L84.35,34.25 L85.60,34.45 L85.60,34.55 L85.65,34.45 L86.55,34.55 L89.15,34.75 L90.55,34.75 L91.60,34.75 L94.80,34.45 L95.95,34.25 L96.10,34.25 L96.15,34.20 L97.15,34.05 Q98.85,33.80 100.80,34.00 Z"/>
+        <path fill="#348BB6" fill-opacity="0.65" d="M111.90,147.60 L112.10,147.45 L112.05,147.55 L112.00,147.60 L111.90,147.60 Z"/>
+        <path fill="#122143" fill-opacity="1.00" d="M111.90,147.60 L111.90,147.55 L111.85,147.50 L111.45,145.50 L111.45,145.40 L111.50,145.35 L102.25,150.75 L102.40,152.80 L102.35,152.90 L102.25,152.95 L102.20,152.90 L102.15,152.80 L102.00,150.85 L97.30,153.55 L97.25,153.60 L97.25,153.35 L102.00,150.60 L102.10,150.55 L116.60,142.10 L115.60,139.35 L110.45,142.30 L110.35,142.40 L110.30,142.40 L105.65,145.00 L106.35,147.95 L106.30,148.05 L106.25,148.10 L106.15,148.05 L106.10,148.00 L105.40,145.15 L101.95,147.15 L101.90,147.20 L101.85,147.20 L97.55,149.60 L97.50,149.65 L97.40,149.55 L97.40,149.50 L97.45,149.40 L101.75,147.00 L101.25,144.00 Q99.55,145.00 97.80,145.95 L97.75,146.00 L97.65,145.90 L97.65,145.85 L97.70,145.75 L104.00,142.25 L104.00,142.20 L103.20,139.90 L103.20,139.80 L103.25,139.75 L103.35,139.75 L103.45,139.80 L104.25,142.10 L109.10,139.35 L109.15,139.30 L109.20,139.30 L114.65,136.20 L113.65,134.25 L113.65,134.20 L113.70,134.10 L113.80,134.10 L113.85,134.15 L114.85,136.10 L124.55,130.65 L124.55,130.60 L123.85,128.80 L123.85,128.70 L123.90,128.65 L124.00,128.65 L124.10,128.70 L124.80,130.50 L133.40,125.65 L132.65,124.05 L132.65,123.95 L132.70,123.90 L132.80,123.90 L132.90,123.95 L133.60,125.50 L138.80,122.60 L137.90,121.15 L137.90,121.05 L137.95,120.95 L138.05,120.95 L138.10,121.00 L139.00,122.45 L144.00,119.65 L142.85,118.00 L142.85,117.90 L142.90,117.80 L143.00,117.80 L143.05,117.85 L144.20,119.55 L151.90,115.20 L150.70,113.90 L150.70,113.80 L150.75,113.70 L150.80,113.70 L150.90,113.75 L152.15,115.05 L152.40,114.95 L152.30,115.00 L152.20,115.15 L152.15,115.25 L152.05,115.30 L152.00,115.30 L151.55,115.65 L149.75,116.70 L149.95,117.05 L149.80,117.20 L149.55,116.80 L140.90,121.65 L141.95,123.40 L141.70,123.55 L140.70,121.80 L109.35,139.45 L110.40,142.10 L115.55,139.10 L115.60,139.05 L115.65,139.05 L121.30,135.80 L120.40,133.45 L120.40,133.35 L120.45,133.30 L120.55,133.30 L120.65,133.35 L121.55,135.70 L131.15,130.15 L130.35,127.80 L130.35,127.70 L130.40,127.65 L130.50,127.65 L130.60,127.70 L131.40,130.05 L137.10,126.75 L134.20,128.70 L131.45,130.25 L131.35,130.35 L131.30,130.35 L121.60,135.90 L121.50,136.00 L121.45,136.00 L115.80,139.20 L116.85,142.00 L121.50,139.25 L120.70,140.00 L116.85,142.25 L116.80,142.30 L111.55,145.35 L111.65,145.35 L111.70,145.45 L112.10,147.45 L111.90,147.60 M14.55,114.10 L11.25,112.80 L11.30,112.85 L11.25,112.95 L9.70,115.30 L14.55,117.20 L16.10,117.80 L17.75,115.35 L14.60,114.10 L14.55,114.10 M4.00,116.55 L4.10,116.50 L4.20,116.50 L4.25,116.60 L4.20,116.70 L2.85,118.55 L2.80,118.60 L2.70,118.55 L2.65,118.50 L2.65,118.40 L4.00,116.55 M9.45,115.50 L7.85,114.80 L6.30,116.95 L19.50,122.25 L21.00,120.05 L16.15,118.10 L16.10,118.10 L14.55,117.45 L13.20,119.45 L13.15,119.50 L13.05,119.45 L13.00,119.40 L13.00,119.30 L14.30,117.40 L9.50,115.50 L9.45,115.50 M29.65,119.60 L29.65,119.50 L31.00,117.25 L31.10,117.20 L31.20,117.20 L31.25,117.30 L31.20,117.40 L29.85,119.65 L29.80,119.70 L29.70,119.65 L29.65,119.60 M22.20,117.05 L22.15,117.05 L18.00,115.40 L16.35,117.90 L21.25,119.85 L23.95,120.90 L25.75,118.45 L22.20,117.05 M23.60,114.45 L23.70,114.45 L23.75,114.55 L23.70,114.65 L22.40,116.85 L26.00,118.25 L32.35,120.75 L32.45,120.80 L32.45,120.90 L32.35,121.00 L32.25,121.00 L26.00,118.50 L24.20,121.00 L30.30,123.45 L30.40,123.50 L30.40,123.60 L30.30,123.70 L30.20,123.70 L24.00,121.20 L23.95,121.20 L21.25,120.10 L19.75,122.35 L25.50,124.65 L27.05,122.70 L27.15,122.65 L27.25,122.65 L27.30,122.75 L27.25,122.85 L25.75,124.75 L28.40,125.85 L28.50,125.90 L28.50,126.00 L28.40,126.10 L28.30,126.10 L26.90,125.50 L25.55,127.50 L25.50,127.55 L25.40,127.50 L25.35,127.45 L25.35,127.35 L26.65,125.40 L22.20,123.60 L20.90,125.65 L20.85,125.70 L20.75,125.65 L20.70,125.60 L20.70,125.50 L21.95,123.50 L19.55,122.55 L19.50,122.50 L15.85,121.05 L14.55,123.05 L14.50,123.10 L14.40,123.05 L14.35,123.00 L14.35,122.90 L15.60,120.95 L10.00,118.70 L8.55,120.80 L8.50,120.85 L8.40,120.80 L8.35,120.75 L8.35,120.65 L9.75,118.60 L6.10,117.15 L6.00,117.10 L5.95,117.10 L2.85,115.85 L2.80,115.75 L2.80,115.65 L2.85,115.60 L2.95,115.60 L6.05,116.85 L7.60,114.75 L4.45,113.50 L4.40,113.40 L4.40,113.30 L4.45,113.25 L4.55,113.25 L7.85,114.55 L9.45,115.20 L11.05,112.80 L11.15,112.75 L8.35,111.65 L8.30,111.65 L6.70,111.00 L6.65,110.90 L6.65,110.80 L6.70,110.75 L6.80,110.75 L8.35,111.35 L9.80,109.65 L9.90,109.60 L10.00,109.60 L10.05,109.70 L10.00,109.80 L8.60,111.45 L14.55,113.80 L15.90,111.60 L16.00,111.55 L16.10,111.55 L16.15,111.65 L16.10,111.75 L14.80,113.90 L18.00,115.15 L22.15,116.75 L23.50,114.50 L23.60,114.45 M127.30,134.10 L127.05,134.25 L126.70,133.20 L126.70,133.15 L126.70,133.05 L126.75,133.00 L126.85,133.00 L126.95,133.05 L127.30,134.10 M110.15,142.20 L109.15,139.60 L101.50,143.90 L101.95,146.90 L105.40,144.90 L105.50,144.85 L110.15,142.20 Z"/>
+        <path fill="#0A1121" fill-opacity="1.00" d="M75.80,141.35 L75.75,141.40 L88.40,146.35 L89.55,143.35 L76.85,138.40 L75.80,141.35 M64.25,140.80 L64.35,140.80 L64.45,140.85 L64.45,140.95 L63.65,143.15 L63.55,143.25 L63.45,143.25 L63.40,143.15 L63.40,143.05 L64.20,140.85 L64.25,140.80 M64.65,136.95 L64.65,137.00 L75.55,141.30 L75.55,141.25 L76.60,138.30 L65.75,134.05 L64.65,136.95 M69.15,139.05 L67.95,141.75 L81.40,147.15 L82.35,144.30 L82.35,144.25 L69.15,139.05 M71.35,133.20 L71.40,133.15 L71.50,133.15 L71.60,133.20 L71.60,133.30 L70.70,135.70 L82.10,140.15 L83.25,137.40 L83.30,137.35 L83.40,137.35 L83.50,137.40 L83.50,137.50 L82.35,140.25 L92.15,144.10 L93.35,141.15 L93.40,141.10 L93.50,141.10 L93.60,141.15 L93.60,141.25 L92.40,144.20 L96.10,145.65 L96.20,145.70 L96.20,145.80 L96.10,145.90 L96.00,145.90 L89.80,143.45 L88.65,146.45 L96.35,149.50 L96.45,149.55 L96.45,149.65 L96.35,149.75 L96.25,149.75 L93.15,148.50 L92.05,151.45 L96.35,153.20 L96.45,153.25 L96.45,153.35 L96.35,153.45 L96.25,153.45 L86.35,149.45 L85.35,151.90 L85.25,152.00 L85.15,152.00 L85.10,151.90 L85.10,151.80 L86.10,149.35 L74.85,144.80 L74.00,147.05 L73.90,147.15 L73.80,147.15 L73.75,147.05 L73.75,146.95 L74.60,144.70 L61.75,139.55 L61.70,139.45 L61.70,139.35 L61.75,139.30 L61.85,139.30 L67.70,141.65 L68.90,138.95 L62.90,136.60 L62.85,136.50 L62.85,136.40 L62.90,136.35 L63.00,136.35 L64.40,136.90 L64.40,136.85 L65.50,133.95 L64.15,133.45 L64.10,133.35 L64.10,133.25 L64.15,133.20 L64.25,133.20 L70.45,135.60 L71.35,133.20 M97.25,153.35 L97.25,153.60 L97.15,153.50 L97.15,153.45 L97.15,153.40 L97.25,153.35 M81.65,147.25 L91.80,151.35 L92.90,148.40 L82.60,144.35 L81.65,147.25 Z"/>
+        <path fill="#1B435C" fill-opacity="0.90" d="M149.80,117.20 L149.95,117.05 L150.90,118.65 L150.95,118.75 L150.85,118.80 L150.80,118.85 L150.70,118.75 L149.80,117.20 M151.55,115.65 L152.00,115.30 L152.05,115.30 L152.15,115.25 L152.20,115.15 L152.30,115.00 L152.40,114.95 L155.45,113.20 L155.55,113.20 L155.60,113.25 L155.65,113.35 L155.55,113.40 L151.55,115.65 M120.70,140.00 L121.50,139.25 L121.70,139.15 L121.75,139.15 L127.55,135.70 L127.05,134.25 L127.30,134.10 L127.80,135.60 L131.30,133.60 L131.35,133.55 L131.40,133.55 L136.75,130.40 L135.90,127.90 L135.90,127.80 L135.95,127.75 L136.05,127.75 L136.15,127.80 L137.00,130.30 L140.35,128.35 L140.40,128.30 L140.45,128.30 L140.50,128.30 L146.15,125.00 L144.80,122.60 L142.25,124.10 L142.15,124.15 L134.20,128.70 L137.10,126.75 L142.00,124.00 L141.70,123.55 L141.95,123.40 L142.20,123.85 L156.75,115.50 L156.85,115.50 L156.90,115.55 L156.95,115.65 L156.85,115.70 L145.00,122.50 L146.35,124.85 L150.65,122.35 L150.70,122.30 L150.75,122.30 L155.60,119.45 L154.25,117.45 L154.25,117.35 L154.30,117.25 L154.40,117.25 L154.45,117.30 L155.80,119.35 L159.10,117.40 L159.20,117.40 L159.25,117.45 L159.30,117.55 L159.25,117.60 L155.85,119.60 L155.75,119.65 L150.95,122.45 L152.35,124.65 L152.40,124.75 L152.35,124.80 L152.25,124.85 L152.15,124.80 L150.70,122.55 L146.40,125.10 L146.35,125.10 L146.30,125.15 L140.60,128.45 L141.70,130.70 L141.75,130.80 L141.65,130.85 L141.55,130.90 L141.50,130.80 L140.40,128.55 L137.00,130.55 L136.95,130.60 L131.55,133.70 L132.20,136.25 L132.15,136.30 L132.10,136.40 L132.00,136.35 L131.95,136.30 L131.35,133.85 L127.80,135.85 L127.75,135.90 L121.90,139.30 L122.60,141.50 L122.55,141.55 L122.50,141.65 L122.40,141.60 L122.35,141.55 L121.70,139.45 L120.70,140.00 Z"/>
+    </g>
+</svg>

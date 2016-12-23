@@ -1,0 +1,54 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1024" height="768">
+    <g transform="scale(2) translate(50,50)">
+        <path stroke="#FFFFFF" stroke-width="1.00" stroke-opacity="1.00" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="3.00" fill="transparent" d="M200.00,95.00 L200.00,0.00 L0.00,0.00 L0.00,200.00 L100.00,200.00 L100.00,100.00 L400.00,100.00 L400.00,300.00 L100.00,300.00 L100.00,205.00 L200.00,205.00 L200.00,105.00"/>
+		<path stroke="#FFFFFF" stroke-width="1.00" stroke-opacity="1.00" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="3.00" fill="transparent" d="M196.58,56.90 L200.00,47.50 M196.58,56.90 L200.00,49.50 M203.42,56.90 L200.00,47.50 M203.42,56.90 L200.00,49.50 M76.06,3.42 L66.67,0.00 M76.06,3.42 L68.67,0.00 M142.73,3.42 L133.33,0.00 M142.73,3.42 L135.33,0.00 M76.06,-3.42 L66.67,0.00 M76.06,-3.42 L68.67,0.00 M142.73,-3.42 L133.33,0.00 M142.73,-3.42 L135.33,0.00 M3.42,123.94 L0.00,133.33 M3.42,123.94 L0.00,131.33 M3.42,57.27 L0.00,66.67 M3.42,57.27 L0.00,64.67 M-3.42,123.94 L0.00,133.33 M-3.42,123.94 L0.00,131.33 M-3.42,57.27 L0.00,66.67 M-3.42,57.27 L0.00,64.67 M40.60,196.58 L50.00,200.00 M40.60,196.58 L48.00,200.00 M40.60,203.42 L50.00,200.00 M40.60,203.42 L48.00,200.00 M96.58,159.40 L100.00,150.00 M96.58,159.40 L100.00,152.00 M103.42,159.40 L100.00,150.00 M103.42,159.40 L100.00,152.00 M315.60,96.58 L325.00,100.00 M315.60,96.58 L323.00,100.00 M240.60,96.58 L250.00,100.00 M240.60,96.58 L248.00,100.00 M165.60,96.58 L175.00,100.00 M165.60,96.58 L173.00,100.00 M315.60,103.42 L325.00,100.00 M315.60,103.42 L323.00,100.00 M240.60,103.42 L250.00,100.00 M240.60,103.42 L248.00,100.00 M165.60,103.42 L175.00,100.00 M165.60,103.42 L173.00,100.00 M403.42,223.94 L400.00,233.33 M403.42,223.94 L400.00,231.33 M403.42,157.27 L400.00,166.67 M403.42,157.27 L400.00,164.67 M396.58,223.94 L400.00,233.33 M396.58,223.94 L400.00,231.33 M396.58,157.27 L400.00,166.67 M396.58,157.27 L400.00,164.67 M184.40,303.42 L175.00,300.00 M184.40,303.42 L177.00,300.00 M259.40,303.42 L250.00,300.00 M259.40,303.42 L252.00,300.00 M334.40,303.42 L325.00,300.00 M334.40,303.42 L327.00,300.00 M184.40,296.58 L175.00,300.00 M184.40,296.58 L177.00,300.00 M259.40,296.58 L250.00,300.00 M259.40,296.58 L252.00,300.00 M334.40,296.58 L325.00,300.00 M334.40,296.58 L327.00,300.00 M96.58,261.90 L100.00,252.50 M96.58,261.90 L100.00,254.50 M103.42,261.90 L100.00,252.50 M103.42,261.90 L100.00,254.50 M140.60,201.58 L150.00,205.00 M140.60,201.58 L148.00,205.00 M140.60,208.42 L150.00,205.00 M140.60,208.42 L148.00,205.00 M196.58,164.40 L200.00,155.00 M196.58,164.40 L200.00,157.00 M203.42,164.40 L200.00,155.00 M203.42,164.40 L200.00,157.00"/>
+		<text style="font-family:Menlo;font-size:12;">
+			<tspan x="90" y="-14" fill="blue">f0=3</tspan>
+			<tspan x="90" y="-2" fill="lightgray">f1=0</tspan>
+			
+			<tspan x="-30" y="95" fill="blue">f0=3</tspan>
+			<tspan x="-30" y="107" fill="lightgray">f1=0</tspan>
+			
+			<tspan x="10" y="212" fill="blue">f0=3</tspan>
+			<tspan x="10" y="224" fill="lightgray">f1=0</tspan>
+			
+			<tspan x="70" y="125" fill="blue">f0=3</tspan>
+			<tspan x="70" y="137" fill="lime">f1=2</tspan>
+			
+			<tspan x="120" y="86" fill="blue">f0=3</tspan>
+			<tspan x="120" y="98" fill="lime">f1=2</tspan>
+			
+			<tspan x="170" y="25" fill="blue">f0=3</tspan>
+			<tspan x="170" y="37" fill="lightgray">f1=0</tspan>
+			
+			<tspan x="270" y="112" fill="lightgray">f0=0</tspan>
+			<tspan x="270" y="124" fill="red">f1=1</tspan>
+			
+			<tspan x="400" y="200" fill="lightgray">f0=0</tspan>
+			<tspan x="400" y="212" fill="red">f1=1</tspan>
+			
+			<tspan x="270" y="312" fill="lightgray">f0=0</tspan>
+			<tspan x="270" y="324" fill="red">f1=1</tspan>
+			
+			<tspan x="70" y="277" fill="lightgray">f0=0</tspan>
+			<tspan x="70" y="289" fill="red">f1=1</tspan>
+			
+			<tspan x="160" y="216" fill="lime">f0=2</tspan>
+			<tspan x="160" y="228" fill="red">f1=1</tspan>
+			
+			<tspan x="200" y="130" fill="lime">f0=2</tspan>
+			<tspan x="200" y="142" fill="red">f1=1</tspan>
+		</text>
+		<text style="font-family:Lucida Grande;font-size:14;">
+			<tspan x="210" y="12" fill="lightgray">fillStyle #0 = undefined</tspan>
+			<tspan x="210" y="30" fill="red">fillStyle #1 = Red</tspan>
+			<tspan x="210" y="48" fill="lime">fillStyle #2 = Green</tspan>
+			<tspan x="210" y="66" fill="blue">fillStyle #3 = Blue</tspan>
+		</text>
+		<text x="120" y="-30" style="font-family:Lucida Grande;font-size:20;" fill="white">
+			<tspan>fillStyle0</tspan>
+			<tspan font-style = "italic">vs</tspan>
+			<tspan>fillStyle1</tspan>
+		</text>
+    </g>
+</svg>

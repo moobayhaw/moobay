@@ -1,0 +1,47 @@
+<html>
+	<title>HTML5绘制SWF矢量图</title>
+	<head>
+		<meta charset="UTF-8">
+		<script type="text/javascript" src="./jquery-1.11.3.js"></script>
+		<script type="text/javascript" src="./shape-redraw.js"></script>
+	</head>
+	<body>
+		<canvas id="shapeCanvas"></canvas>
+		<script type="text/javascript">
+			var canvas = document.getElementById('shapeCanvas')
+			var height = document.body.clientHeight
+			var width = document.body.clientWidth
+			canvas.height = height * 4
+			canvas.width = width * 4
+			$("#shapeCanvas").css("width", width + "px").css("height", height + "px")
+			
+			var context = canvas.getContext('2d')
+			$.getJSON("./graph.json", function(steps)
+			{
+				window.shape = SWFShape.init(context, steps)
+				shape.begin()			
+				window.timer = setInterval(function()
+				{
+					if (shape.stepsAvailable())
+					{
+						shape.drawNextRound()
+					}
+					else
+					{
+						clearInterval(timer)
+						$("#shapeCanvas").click(function()
+						{
+							var win = window.open()
+							$(win.document.body).css("font-family", "Menlo,Consolas")
+												.css("font-size"  , "16px")
+												.css("line-height", "25px")
+												.css("margin-left", "20px")
+							var html = $("<div/>").html(shape.commands.join("<br>")).html()
+							$(win.document.body).html(html)
+						})
+					}
+				}, 1000/25)
+			})
+		</script>
+	</body>
+</html>
