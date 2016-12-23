@@ -1,5 +1,0 @@
----
-title: post 2
-layout: post
-date: 2016-12-22T11:09:28+08:00
----
