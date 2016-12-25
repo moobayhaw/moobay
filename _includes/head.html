@@ -17,12 +17,12 @@
 
 			$("a[href^='/']").each(function()
 			{
-				$(this).attr("href", baseurl + (this).attr("href"));
+				$(this).attr("href", baseurl + $(this).attr("href"));
 			})
 
 			$("img[src^='/']").each(function()
 			{
-				$(this).attr("src", baseurl + (this).attr("src"));
+				$(this).attr("src", baseurl + $(this).attr("src"));
 			})
 		}
 	);
