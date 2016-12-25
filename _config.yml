@@ -26,7 +26,6 @@ author: larryhou
 plugins_dir: plugins
 
 permalink: /blog/:year/:month/:day/:title/
-category_dir: blog/categories
 
 # Build settings
 markdown: kramdown
