@@ -1,7 +1,11 @@
 <ul>
-{% assign nav_pages = site.html_pages | sort: 'nav_order' %}
+{% assign nav_pages = site.html_pages | sort: 'navid' %}
+{% assign navid = 0 %}
+{% assign title = "" %}
 {% for p in nav_pages %}
-  {% if p.nav_order and p.url == "/" or p.url contains "/blog/" %}
+  {% if p.navid and (p.navid != navid or p.title != title) %}
+    {% assign navid = p.navid %}
+    {% assign title = p.title %}
     <li>
       <a href="{{ p.url }}" {% if p.url == page.url %}class="active"{% endif %}>
         {{ p.title }}
